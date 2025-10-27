@@ -41,38 +41,45 @@ export function AdvertiseWithUs({ variant = 1, compact = false }: AdvertiseWithU
     }
   };
 
-  // Variation 1: Bold and Direct
+  // Variation 1: Colorful and Eye-Catching
   if (variant === 1) {
     return (
       <div className="w-full mb-8">
-        <div className="bg-gradient-to-r from-blue-900/20 to-purple-900/20 rounded-lg p-8 border border-blue-500/30 text-center">
-          <h3 className="text-2xl font-bold text-white mb-3">
-            Reach 1000s of Recruiting Professionals
-          </h3>
-          <p className="text-gray-300 mb-6">
-            Advertise your recruiting tools, services, or job opportunities with The Daily Hire
-          </p>
-          <div className="flex gap-4 justify-center flex-wrap">
-            <a
-              href={X_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => handleSocialClick('X')}
-              className="flex items-center gap-2 bg-black hover:bg-gray-900 text-white font-semibold px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105"
-            >
-              <XLogo className="w-5 h-5" />
-              Message on X
-            </a>
-            <a
-              href={LINKEDIN_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => handleSocialClick('LinkedIn')}
-              className="flex items-center gap-2 bg-[#0A66C2] hover:bg-[#094d92] text-white font-semibold px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105"
-            >
-              <Linkedin className="w-5 h-5" />
-              Connect on LinkedIn
-            </a>
+        <div className="bg-gradient-to-br from-purple-600/20 via-blue-600/20 to-cyan-600/20 rounded-lg p-8 border border-purple-500/30 relative overflow-hidden">
+          {/* Animated gradient background */}
+          <div className="absolute inset-0 bg-gradient-to-r from-purple-500/10 to-cyan-500/10 animate-pulse pointer-events-none" />
+
+          <div className="relative z-10 text-center">
+            <div className="inline-block bg-gradient-to-r from-purple-400 to-cyan-400 text-transparent bg-clip-text mb-2">
+              <h3 className="text-2xl font-bold">
+                Your Ad Could Be Here
+              </h3>
+            </div>
+            <p className="text-gray-200 mb-6 max-w-2xl mx-auto">
+              Promote your recruiting platform, tools, or services to thousands of active talent acquisition professionals
+            </p>
+            <div className="flex gap-4 justify-center flex-wrap">
+              <a
+                href={X_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => handleSocialClick('X')}
+                className="group flex items-center gap-2 bg-white text-gray-900 font-semibold px-6 py-3 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
+              >
+                <XLogo className="w-5 h-5" />
+                <span>DM us on X</span>
+              </a>
+              <a
+                href={LINKEDIN_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => handleSocialClick('LinkedIn')}
+                className="group flex items-center gap-2 bg-white text-gray-900 font-semibold px-6 py-3 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
+              >
+                <Linkedin className="w-5 h-5 text-[#0A66C2]" />
+                <span>Message on LinkedIn</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -133,44 +140,37 @@ export function AdvertiseWithUs({ variant = 1, compact = false }: AdvertiseWithU
     );
   }
 
-  // Variation 3: Colorful and Eye-Catching
+  // Variation 3: Bold and Direct
   return (
     <div className="w-full mb-8">
-      <div className="bg-gradient-to-br from-purple-600/20 via-blue-600/20 to-cyan-600/20 rounded-lg p-8 border border-purple-500/30 relative overflow-hidden">
-        {/* Animated gradient background */}
-        <div className="absolute inset-0 bg-gradient-to-r from-purple-500/10 to-cyan-500/10 animate-pulse pointer-events-none" />
-
-        <div className="relative z-10 text-center">
-          <div className="inline-block bg-gradient-to-r from-purple-400 to-cyan-400 text-transparent bg-clip-text mb-2">
-            <h3 className="text-2xl font-bold">
-              Your Ad Could Be Here
-            </h3>
-          </div>
-          <p className="text-gray-200 mb-6 max-w-2xl mx-auto">
-            Promote your recruiting platform, tools, or services to thousands of active talent acquisition professionals
-          </p>
-          <div className="flex gap-4 justify-center flex-wrap">
-            <a
-              href={X_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => handleSocialClick('X')}
-              className="group flex items-center gap-2 bg-white text-gray-900 font-semibold px-6 py-3 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
-            >
-              <XLogo className="w-5 h-5" />
-              <span>DM us on X</span>
-            </a>
-            <a
-              href={LINKEDIN_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => handleSocialClick('LinkedIn')}
-              className="group flex items-center gap-2 bg-white text-gray-900 font-semibold px-6 py-3 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
-            >
-              <Linkedin className="w-5 h-5 text-[#0A66C2]" />
-              <span>Message on LinkedIn</span>
-            </a>
-          </div>
+      <div className="bg-gradient-to-r from-blue-900/20 to-purple-900/20 rounded-lg p-8 border border-blue-500/30 text-center">
+        <h3 className="text-2xl font-bold text-white mb-3">
+          Reach 1000s of Recruiting Professionals
+        </h3>
+        <p className="text-gray-300 mb-6">
+          Advertise your recruiting tools, services, or job opportunities with The Daily Hire
+        </p>
+        <div className="flex gap-4 justify-center flex-wrap">
+          <a
+            href={X_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => handleSocialClick('X')}
+            className="flex items-center gap-2 bg-black hover:bg-gray-900 text-white font-semibold px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105"
+          >
+            <XLogo className="w-5 h-5" />
+            Message on X
+          </a>
+          <a
+            href={LINKEDIN_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => handleSocialClick('LinkedIn')}
+            className="flex items-center gap-2 bg-[#0A66C2] hover:bg-[#094d92] text-white font-semibold px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105"
+          >
+            <Linkedin className="w-5 h-5" />
+            Connect on LinkedIn
+          </a>
         </div>
       </div>
     </div>
