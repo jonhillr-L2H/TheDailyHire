@@ -50,10 +50,14 @@ export function Footer() {
             <h3 className="text-lg font-semibold text-white mb-4">Legal</h3>
             <ul className="space-y-2">
               <li>
-                <span className="text-gray-400 text-sm">Privacy Policy</span>
+                <Link href="/privacy" className="text-gray-400 hover:text-blue-400 text-sm transition-colors">
+                  Privacy Policy
+                </Link>
               </li>
               <li>
-                <span className="text-gray-400 text-sm">Terms of Service</span>
+                <Link href="/terms" className="text-gray-400 hover:text-blue-400 text-sm transition-colors">
+                  Terms of Service
+                </Link>
               </li>
             </ul>
           </div>
