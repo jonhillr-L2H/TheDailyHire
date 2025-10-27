@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Banner - The Daily Hire</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        /* LinkedIn banner size: 1584x396 */
+        .linkedin-banner {
+            width: 1584px;
+            height: 396px;
+            background: #030712;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 60px;
+        }
+
+        .logo-text {
+            font-size: 110px;
+            font-weight: 300;
+            letter-spacing: -2px;
+            color: white;
+            margin-bottom: 18px;
+            text-align: center;
+        }
+
+        .logo-text .hire {
+            background: linear-gradient(to right, #60a5fa, #a855f7);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .tagline {
+            font-size: 38px;
+            font-weight: 400;
+            letter-spacing: 8px;
+            color: #9ca3af;
+            text-align: center;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <div class="linkedin-banner">
+        <div class="logo-text">
+            The Daily <span class="hire">Hire</span>
+        </div>
+        <div class="tagline">
+            Your Daily Dose of Recruiting
+        </div>
+    </div>
+</body>
+</html>
