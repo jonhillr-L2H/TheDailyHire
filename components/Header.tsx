@@ -5,11 +5,12 @@ import { usePathname } from 'next/navigation';
 import { Linkedin } from 'lucide-react';
 import type { Category } from '@/types';
 
-const NAV_ITEMS: { name: string; path: Category }[] = [
+const NAV_ITEMS: { name: string; path: Category | 'about' }[] = [
   { name: 'NEWS', path: 'news' },
   { name: 'TOOLS', path: 'tools' },
   { name: 'FUNNIES', path: 'ai-funnies' },
   { name: 'JUST THE TIP', path: 'just-the-tip' },
+  { name: 'ABOUT', path: 'about' },
 ];
 
 export function Header() {
