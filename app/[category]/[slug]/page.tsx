@@ -75,8 +75,41 @@ export default async function ArticlePage({ params }: Props) {
     return ((hash % 3) + 1) as 1 | 2 | 3;
   };
 
+  // Generate JSON-LD structured data for SEO
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://thedailyhire.com';
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: article.title,
+    description: article.excerpt,
+    image: article.imageUrl,
+    datePublished: article.date,
+    dateModified: article.date,
+    author: {
+      '@type': 'Person',
+      name: article.author,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'The Daily Hire',
+      logo: {
+        '@type': 'ImageObject',
+        url: `${baseUrl}/favicon.ico`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${baseUrl}/${category}/${slug}`,
+    },
+  };
+
   return (
     <div>
+      {/* JSON-LD Structured Data for Google */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <article>
         <Container className="py-6 md:py-8">
           <div className="max-w-3xl mx-auto">
