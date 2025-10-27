@@ -26,7 +26,7 @@ export function AdvertiseWithUs({ variant = 1 }: AdvertiseWithUsProps) {
   );
 
   const handleSocialClick = (platform: string) => {
-    if (typeof window !== 'undefined' && typeof gtag !== 'undefined') {
+    if (typeof window !== 'undefined') {
       interface WindowWithGtag {
         gtag?: (...args: unknown[]) => void;
       }
