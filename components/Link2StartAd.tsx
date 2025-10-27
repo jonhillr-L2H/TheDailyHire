@@ -1,5 +1,7 @@
 'use client';
 
+import Image from 'next/image';
+
 /**
  * Link2Start Premium Ad Component
  *
@@ -36,22 +38,32 @@ export function Link2StartAd() {
         <div className="absolute top-[-50%] left-[-50%] w-[200%] h-[200%] bg-gradient-to-br from-transparent via-purple-600/10 to-transparent animate-[shimmer_3s_infinite] pointer-events-none" />
 
         <div className="relative z-10 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
-          <div className="flex-1">
-            <div className="flex items-center gap-2 mb-3">
-              <div className="text-xl font-bold bg-gradient-to-r from-[#6B46C1] via-[#5B8FE8] to-[#67C9C0] bg-clip-text text-transparent">
-                Link2Start
-              </div>
-              <span className="text-xs text-gray-400">Advertisement</span>
+          <div className="flex items-center gap-4 flex-1">
+            {/* Logo - prominent size matching text height */}
+            <div className="flex-shrink-0">
+              <Image
+                src="/linqlogo.webp"
+                alt="Link2Start Logo"
+                width={80}
+                height={80}
+                className="w-20 h-20 object-contain"
+              />
             </div>
 
-            {/* Main messaging - larger text */}
-            <div className="flex items-center gap-3 flex-wrap">
-              <span className="text-lg text-white font-medium">
+            {/* Text content stacked */}
+            <div className="flex flex-col gap-1">
+              <div className="flex items-center gap-2">
+                <div className="text-xl font-bold bg-gradient-to-r from-[#6B46C1] via-[#5B8FE8] to-[#67C9C0] bg-clip-text text-transparent">
+                  Link2Start
+                </div>
+                <span className="text-xs text-gray-400">Advertisement</span>
+              </div>
+              <div className="text-lg text-white font-medium">
                 Still presenting candidates like it&apos;s 1999?
-              </span>
-              <span className="text-base text-[#00bba7] font-bold">
+              </div>
+              <div className="text-base text-[#00bba7] font-bold">
                 Try Link2Start Free!
-              </span>
+              </div>
             </div>
           </div>
 
