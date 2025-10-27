@@ -1,7 +1,15 @@
 import Link from 'next/link';
+import { Linkedin } from 'lucide-react';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
+
+  // X logo as SVG component
+  const XLogo = ({ className }: { className?: string }) => (
+    <svg viewBox="0 0 24 24" className={className} fill="currentColor">
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+    </svg>
+  );
 
   return (
     <footer className="border-t border-gray-800 bg-gray-950 py-12">
@@ -45,10 +53,10 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Legal */}
+          {/* Legal & Social */}
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Legal</h3>
-            <ul className="space-y-2">
+            <ul className="space-y-2 mb-6">
               <li>
                 <Link href="/privacy" className="text-gray-400 hover:text-blue-400 text-sm transition-colors">
                   Privacy Policy
@@ -60,6 +68,31 @@ export function Footer() {
                 </Link>
               </li>
             </ul>
+
+            {/* Social Icons */}
+            <div>
+              <h3 className="text-lg font-semibold text-white mb-4">Follow Us</h3>
+              <div className="flex gap-4">
+                <a
+                  href="https://twitter.com/YOUR_HANDLE"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-gray-300 transition-colors"
+                  aria-label="Follow us on X"
+                >
+                  <XLogo className="w-5 h-5" />
+                </a>
+                <a
+                  href="https://www.linkedin.com/company/the-daily-hire"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-blue-400 transition-colors"
+                  aria-label="Follow us on LinkedIn"
+                >
+                  <Linkedin className="w-5 h-5" />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
 
