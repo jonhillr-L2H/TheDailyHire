@@ -82,9 +82,12 @@ export function AdvertiseWithUs({ variant = 1, compact = false }: AdvertiseWithU
   // Variation 2: Minimalist and Professional
   if (variant === 2) {
     return (
-      <div className="w-full mb-8">
-        <div className="bg-gray-800/50 rounded-lg p-6 border-2 border-dashed border-gray-600">
-          <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div className="w-full mb-8 px-8">
+        <div className="bg-[#1a2332] rounded-lg p-6 relative overflow-hidden cursor-pointer transition-all duration-300 hover:shadow-[0_4px_15px_rgba(107,70,193,0.3)] group">
+          {/* Animated background gradient overlay */}
+          <div className="absolute top-[-50%] left-[-50%] w-[200%] h-[200%] bg-gradient-to-br from-transparent via-purple-600/10 to-transparent animate-[shimmer_3s_infinite] pointer-events-none" />
+
+          <div className="relative z-10 flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="text-center sm:text-left">
               <h4 className="text-xl font-bold text-white mb-1">
                 Advertise With Us
@@ -118,6 +121,13 @@ export function AdvertiseWithUs({ variant = 1, compact = false }: AdvertiseWithU
               </a>
             </div>
           </div>
+
+          <style jsx>{`
+            @keyframes shimmer {
+              0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+              100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
+            }
+          `}</style>
         </div>
       </div>
     );
