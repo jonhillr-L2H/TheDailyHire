@@ -164,7 +164,7 @@ export async function fetchAndSaveArticleImage(
   title: string,
   category: string,
   slug: string,
-  excerpt?: string
+  _excerpt?: string
 ): Promise<string> {
   const publicPath = path.join(process.cwd(), 'public');
   const savePath = path.join(publicPath, 'images', category, `${slug}.jpg`);

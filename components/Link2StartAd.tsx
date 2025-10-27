@@ -9,11 +9,17 @@
 export function Link2StartAd() {
   const handleAdClick = () => {
     // Track ad click with analytics
-    if (typeof window !== 'undefined' && typeof gtag !== 'undefined') {
-      (window as any).gtag('event', 'ad_click', {
-        'event_category': 'advertising',
-        'event_label': 'Link2Start Ad',
-      });
+    if (typeof window !== 'undefined') {
+      interface WindowWithGtag {
+        gtag?: (...args: unknown[]) => void;
+      }
+      const w = window as unknown as WindowWithGtag;
+      if (w.gtag) {
+        w.gtag('event', 'ad_click', {
+          'event_category': 'advertising',
+          'event_label': 'Link2Start Ad',
+        });
+      }
     }
   };
 
@@ -42,7 +48,7 @@ export function Link2StartAd() {
               {/* Main messaging */}
               <div className="space-y-2">
                 <div className="text-xl sm:text-2xl md:text-[26px] text-white font-semibold leading-tight">
-                  Still presenting candidates like it's 1999?
+                  Still presenting candidates like it&apos;s 1999?
                 </div>
                 <div className="text-base sm:text-lg md:text-[19px] text-[#00bba7] font-semibold">
                   Try Link2Start Free!
