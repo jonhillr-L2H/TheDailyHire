@@ -164,7 +164,8 @@ export async function fetchAndSaveArticleImage(
   title: string,
   category: string,
   slug: string,
-  _excerpt?: string
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  excerpt?: string
 ): Promise<string> {
   const publicPath = path.join(process.cwd(), 'public');
   const savePath = path.join(publicPath, 'images', category, `${slug}.jpg`);

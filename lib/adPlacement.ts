@@ -25,7 +25,7 @@ export function shouldShowLink2StartAd(slug: string): boolean {
  * List of specific slugs that should ALWAYS show Link2Start ad
  * Add high-traffic or strategic articles here
  */
-const PREMIUM_LINK2START_SLUGS = [
+const PREMIUM_LINK2START_SLUGS: string[] = [
   // Add specific article slugs here that should always show Link2Start
   // Example: 'how-to-improve-candidate-presentations',
 ];
