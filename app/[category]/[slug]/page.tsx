@@ -107,9 +107,6 @@ export default async function ArticlePage({ params }: Props) {
               </div>
             </div>
 
-            {/* AI Disclaimer */}
-            <AIDisclaimer />
-
             {/* Content */}
             <div
               className="prose prose-lg prose-invert max-w-none
@@ -124,6 +121,9 @@ export default async function ArticlePage({ params }: Props) {
                 prose-li:text-base prose-li:md:text-lg prose-li:leading-relaxed"
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
+
+            {/* AI Disclaimer */}
+            <AIDisclaimer />
 
             {/* Back to Category */}
             <div className="mt-12 pt-8 border-t border-gray-800">

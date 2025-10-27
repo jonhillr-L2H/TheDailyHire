@@ -18,7 +18,7 @@ export function Hero() {
             <span className="text-blue-400">Recruiting</span>
           </h2>
           <p className="text-lg md:text-xl text-gray-400 mb-6">
-            Spicy takes, no-BS tips, and all the laughs to get you through your day
+            Spicy takes, no-BS tips, and all the laughs to get you through the workday
           </p>
           <Button
             variant="link"
