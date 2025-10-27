@@ -1,10 +1,8 @@
 import { ArticleCard } from '@/components/ArticleCard';
-import { AdCard } from '@/components/AdCard';
 import type { Article } from '@/types';
-import { AD_INTERVAL } from './constants';
 
 /**
- * Renders articles with ads inserted at regular intervals
+ * Renders articles without ads
  * @param articles - Array of articles to render
  * @param allowManualImageForFirst - If true, first article can have manual upload image
  */
@@ -23,15 +21,6 @@ export function renderArticlesWithAds(articles: Article[], allowManualImageForFi
         priority={i < 3} // Prioritize first 3 images for LCP
       />
     );
-
-    // Add ad after every AD_INTERVAL articles
-    if ((i + 1) % AD_INTERVAL === 0 && i !== articles.length - 1) {
-      content.push(
-        <div key={`ad-${i}`} className="col-span-1 md:col-span-2 lg:col-span-3">
-          <AdCard />
-        </div>
-      );
-    }
   }
 
   return content;

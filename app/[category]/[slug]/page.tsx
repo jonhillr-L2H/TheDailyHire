@@ -5,7 +5,7 @@ import { getArticleBySlug, getRandomArticles, getAllArticleSlugs } from '@/lib/a
 import { RelatedArticles } from '@/components/RelatedArticles';
 import { AIDisclaimer } from '@/components/AIDisclaimer';
 import { Link2StartAd } from '@/components/Link2StartAd';
-import { AdCard } from '@/components/AdCard';
+import { AdvertiseWithUs } from '@/components/AdvertiseWithUs';
 import { showLink2StartAd } from '@/lib/adPlacement';
 import { Badge, Container } from '@/components/ui';
 import { CATEGORY_LABELS, type Category } from '@/types';
@@ -69,6 +69,12 @@ export default async function ArticlePage({ params }: Props) {
   const relatedArticles = await getRandomArticles(category, slug, 3);
   const useLink2StartAd = showLink2StartAd(slug);
 
+  // Rotate through different "Advertise With Us" variants for variety
+  const getAdvertiseVariant = (slug: string): 1 | 2 | 3 => {
+    const hash = slug.split('').reduce((acc, char) => char.charCodeAt(0) + acc, 0);
+    return ((hash % 3) + 1) as 1 | 2 | 3;
+  };
+
   return (
     <div>
       <article>
@@ -126,8 +132,8 @@ export default async function ArticlePage({ params }: Props) {
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
 
-            {/* Ad Placement - Link2Start on ~25% of articles, Google AdSense on the rest */}
-            {useLink2StartAd ? <Link2StartAd /> : <AdCard />}
+            {/* Ad Placement - Link2Start on ~25% of articles, Advertise With Us on the rest */}
+            {useLink2StartAd ? <Link2StartAd /> : <AdvertiseWithUs variant={getAdvertiseVariant(slug)} />}
 
             {/* AI Disclaimer */}
             <AIDisclaimer />
