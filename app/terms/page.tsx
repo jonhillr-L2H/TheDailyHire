@@ -34,7 +34,7 @@ export default function TermsPage() {
           <h2>The Short Version</h2>
           <p>
             By using The Daily Hire, you agree: Our content is AI-generated entertainment, not professional advice.
-            Don't be a jerk. Don't steal our stuff. We're not liable if you make business decisions based on robot-written articles.
+            Don&apos;t be a jerk. Don&apos;t steal our stuff. We&apos;re not liable if you make business decisions based on robot-written articles.
           </p>
 
           <h2>AI-Generated Content Disclaimer</h2>
@@ -43,16 +43,16 @@ export default function TermsPage() {
             This means:
           </p>
           <ul>
-            <li><strong>It's for entertainment and laughs</strong> - Not professional recruiting advice</li>
-            <li><strong>Don't bet your career on it</strong> - Always verify important information with real experts</li>
-            <li><strong>We can't guarantee accuracy</strong> - AI is smart but not perfect</li>
-            <li><strong>Take it with a grain of salt</strong> - We're here for hot takes and good vibes, not legal counsel</li>
-            <li><strong>No professional relationship</strong> - Reading our articles doesn't create any advisory relationship</li>
+            <li><strong>It&apos;s for entertainment and laughs</strong> - Not professional recruiting advice</li>
+            <li><strong>Don&apos;t bet your career on it</strong> - Always verify important information with real experts</li>
+            <li><strong>We can&apos;t guarantee accuracy</strong> - AI is smart but not perfect</li>
+            <li><strong>Take it with a grain of salt</strong> - We&apos;re here for hot takes and good vibes, not legal counsel</li>
+            <li><strong>No professional relationship</strong> - Reading our articles doesn&apos;t create any advisory relationship</li>
           </ul>
 
           <h2>What You Can Do</h2>
           <p>
-            You're welcome to:
+            You&apos;re welcome to:
           </p>
           <ul>
             <li>Read articles for free</li>
@@ -61,12 +61,12 @@ export default function TermsPage() {
             <li>Enjoy the content for personal use</li>
           </ul>
 
-          <h2>What You Can't Do</h2>
+          <h2>What You Can&apos;t Do</h2>
           <p>
-            Please don't:
+            Please don&apos;t:
           </p>
           <ul>
-            <li>Copy and republish our articles elsewhere (that's plagiarism, even if AI wrote it)</li>
+            <li>Copy and republish our articles elsewhere (that&apos;s plagiarism, even if AI wrote it)</li>
             <li>Scrape or download all our content</li>
             <li>Remove our branding or attribution</li>
             <li>Use our content for commercial purposes without permission</li>
@@ -74,9 +74,9 @@ export default function TermsPage() {
             <li>Do anything illegal using our platform</li>
           </ul>
 
-          <h2>No Warranties (Legal Speak: We're Not Perfect)</h2>
+          <h2>No Warranties (Legal Speak: We&apos;re Not Perfect)</h2>
           <p>
-            The Daily Hire is provided "as is" without any warranties. We don't guarantee:
+            The Daily Hire is provided &quot;as is&quot; without any warranties. We don&apos;t guarantee:
           </p>
           <ul>
             <li>That articles are 100% accurate</li>
@@ -90,7 +90,7 @@ export default function TermsPage() {
 
           <h2>Limitation of Liability</h2>
           <p>
-            We're not responsible for:
+            We&apos;re not responsible for:
           </p>
           <ul>
             <li>Decisions you make based on AI-generated content</li>
@@ -99,21 +99,21 @@ export default function TermsPage() {
             <li>Technical issues or downtime</li>
           </ul>
           <p>
-            Again: Don't make major career or business decisions based solely on AI-generated blog posts.
+            Again: Don&apos;t make major career or business decisions based solely on AI-generated blog posts.
           </p>
 
           <h2>Copyright & Intellectual Property</h2>
           <p>
-            Even though our content is AI-generated, it's still protected by copyright. The Daily Hire owns the rights
-            to the compiled content, design, and branding. Don't copy our whole site or republish our articles.
+            Even though our content is AI-generated, it&apos;s still protected by copyright. The Daily Hire owns the rights
+            to the compiled content, design, and branding. Don&apos;t copy our whole site or republish our articles.
           </p>
 
           <h2>Third-Party Links & Ads</h2>
           <p>
-            We may link to other websites or display ads (like Google AdSense). We're not responsible for:
+            We may link to other websites or display ads (like Google AdSense). We&apos;re not responsible for:
           </p>
           <ul>
-            <li>What's on those other websites</li>
+            <li>What&apos;s on those other websites</li>
             <li>The content of third-party advertisements</li>
             <li>What happens if you click those ads</li>
           </ul>
@@ -126,10 +126,10 @@ export default function TermsPage() {
             Basic rules of the internet apply:
           </p>
           <ul>
-            <li>Don't try to hack or break the website</li>
-            <li>Don't upload viruses or malware</li>
-            <li>Don't violate any laws</li>
-            <li>Don't be a jerk to other users (if we add comments later)</li>
+            <li>Don&apos;t try to hack or break the website</li>
+            <li>Don&apos;t upload viruses or malware</li>
+            <li>Don&apos;t violate any laws</li>
+            <li>Don&apos;t be a jerk to other users (if we add comments later)</li>
           </ul>
 
           <h2>DMCA & Copyright Claims</h2>
@@ -140,14 +140,14 @@ export default function TermsPage() {
 
           <h2>Changes to These Terms</h2>
           <p>
-            We can update these terms anytime. We'll update the "Last updated" date at the top.
+            We can update these terms anytime. We&apos;ll update the &quot;Last updated&quot; date at the top.
             Continued use of the site means you accept the new terms.
           </p>
 
           <h2>No Formal Business Entity (For Now)</h2>
           <p>
-            The Daily Hire is currently operated as a personal project. We're not an LLC, corporation, or formal business entity.
-            If that changes, we'll update these terms.
+            The Daily Hire is currently operated as a personal project. We&apos;re not an LLC, corporation, or formal business entity.
+            If that changes, we&apos;ll update these terms.
           </p>
 
           <h2>Governing Law</h2>
