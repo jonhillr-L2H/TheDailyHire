@@ -30,26 +30,26 @@ export function Link2StartAd() {
         target="_blank"
         rel="noopener noreferrer"
         onClick={handleAdClick}
-        className="block bg-[#314158] rounded-lg p-6 relative overflow-hidden cursor-pointer transition-all duration-300 hover:shadow-[0_4px_15px_rgba(107,70,193,0.3)] border-2 border-dashed border-gray-700 group"
+        className="block bg-[#1a2332] rounded-lg p-6 relative overflow-hidden cursor-pointer transition-all duration-300 hover:shadow-[0_4px_15px_rgba(107,70,193,0.3)] border-2 border-dashed border-gray-700 group"
       >
         {/* Animated background gradient overlay */}
         <div className="absolute top-[-50%] left-[-50%] w-[200%] h-[200%] bg-gradient-to-br from-transparent via-purple-600/10 to-transparent animate-[shimmer_3s_infinite] pointer-events-none" />
 
         <div className="relative z-10 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <div className="flex-1">
-            <div className="flex items-center gap-2 mb-2">
-              <div className="text-lg font-bold bg-gradient-to-r from-[#6B46C1] via-[#5B8FE8] to-[#67C9C0] bg-clip-text text-transparent">
+            <div className="flex items-center gap-2 mb-3">
+              <div className="text-xl font-bold bg-gradient-to-r from-[#6B46C1] via-[#5B8FE8] to-[#67C9C0] bg-clip-text text-transparent">
                 Link2Start
               </div>
               <span className="text-xs text-gray-400">Advertisement</span>
             </div>
 
-            {/* Main messaging - compact */}
+            {/* Main messaging - larger text */}
             <div className="flex items-center gap-3 flex-wrap">
-              <span className="text-base text-white font-medium">
+              <span className="text-lg text-white font-medium">
                 Still presenting candidates like it&apos;s 1999?
               </span>
-              <span className="text-sm text-[#00bba7] font-semibold">
+              <span className="text-base text-[#00bba7] font-bold">
                 Try Link2Start Free!
               </span>
             </div>

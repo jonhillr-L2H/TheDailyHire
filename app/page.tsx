@@ -22,11 +22,16 @@ export default async function HomePage() {
 
       <Container className="py-12">
         <h2 className="text-3xl font-bold mb-8 text-white">All Stories</h2>
-        <Link2StartAd />
         {allArticles.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {renderArticlesWithAds(allArticles)}
-          </div>
+          <>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
+              {renderArticlesWithAds(allArticles.slice(0, 3))}
+            </div>
+            <Link2StartAd />
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {renderArticlesWithAds(allArticles.slice(3))}
+            </div>
+          </>
         ) : (
           <div className="text-center py-12">
             <p className="text-gray-400">
