@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
+import { getAllAuthors } from '@/lib/authors';
 import { CATEGORIES } from '@/lib/constants';
 
 /**
@@ -43,6 +44,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
+  // Author pages
+  const authors = getAllAuthors();
+  const authorPages: MetadataRoute.Sitemap = authors.map((author) => ({
+    url: `${baseUrl}/authors/${author.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.6,
+  }));
+
   // About page
   const aboutPage: MetadataRoute.Sitemap[0] = {
     url: `${baseUrl}/about`,
@@ -71,6 +81,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     homePage,
     ...categoryPages,
     aboutPage,
+    ...authorPages,
     ...articlePages,
     ...legalPages,
   ];

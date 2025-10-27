@@ -6,7 +6,10 @@ import { RelatedArticles } from '@/components/RelatedArticles';
 import { AIDisclaimer } from '@/components/AIDisclaimer';
 import { Link2StartAd } from '@/components/Link2StartAd';
 import { AdvertiseWithUs } from '@/components/AdvertiseWithUs';
+import { SocialShare } from '@/components/SocialShare';
+import { FAQSchema } from '@/components/FAQSchema';
 import { showLink2StartAd } from '@/lib/adPlacement';
+import { authorNameToSlug } from '@/lib/authors';
 import { Badge, Container } from '@/components/ui';
 import { CATEGORY_LABELS, type Category } from '@/types';
 import type { Metadata } from 'next';
@@ -38,9 +41,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://thedailyhire.com';
+  const canonicalUrl = `${baseUrl}/${category}/${slug}`;
+
   return {
     title: `${article.title} | The Daily Hire`,
     description: article.excerpt,
+    alternates: {
+      canonical: canonicalUrl,
+    },
     openGraph: {
       title: article.title,
       description: article.excerpt,
@@ -48,6 +57,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       publishedTime: article.date,
       authors: [article.author],
       images: [article.imageUrl],
+      url: canonicalUrl,
     },
     twitter: {
       card: 'summary_large_image',
@@ -110,6 +120,16 @@ export default async function ArticlePage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+
+      {/* FAQ Schema for "Just The Tip" articles */}
+      {category === 'just-the-tip' && (
+        <FAQSchema
+          title={article.title}
+          content={article.content}
+          url={`${baseUrl}/${category}/${slug}`}
+        />
+      )}
+
       <article>
         <Container className="py-6 md:py-8">
           <div className="max-w-3xl mx-auto">
@@ -135,10 +155,15 @@ export default async function ArticlePage({ params }: Props) {
             </h1>
 
             {/* Meta Info */}
-            <div className="flex flex-wrap items-center gap-4 md:gap-6 text-gray-400 pb-8 mb-8 border-b border-gray-800">
+            <div className="flex flex-wrap items-center gap-4 md:gap-6 text-gray-400 mb-4">
               <div className="flex items-center gap-2">
                 <User className="w-4 h-4" />
-                <span>{article.author}</span>
+                <Link
+                  href={`/authors/${authorNameToSlug(article.author)}`}
+                  className="hover:text-blue-400 transition-colors"
+                >
+                  {article.author}
+                </Link>
               </div>
               <div className="flex items-center gap-2">
                 <Calendar className="w-4 h-4" />
@@ -149,6 +174,13 @@ export default async function ArticlePage({ params }: Props) {
                 <span>{article.readTime}</span>
               </div>
             </div>
+
+            {/* Social Share Buttons */}
+            <SocialShare
+              title={article.title}
+              url={`${baseUrl}/${category}/${slug}`}
+              description={article.excerpt}
+            />
 
             {/* Content */}
             <div
