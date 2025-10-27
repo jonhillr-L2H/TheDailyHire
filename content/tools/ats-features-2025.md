@@ -3,7 +3,7 @@ title: 'Your ATS is Trash: 10 Features That Actually Matter in 2025'
 excerpt: >-
   If your recruiting software doesn't have these features, it's time to break up
   with it. No shade, just facts.
-author: Emily Chen
+author: Terry 'The Tool' Shepard
 date: 'October 15, 2025'
 readTime: 7 min read
 imageUrl: /images/tools/ats-features-2025.jpg

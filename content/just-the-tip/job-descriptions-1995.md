@@ -3,7 +3,7 @@ title: Stop Writing Job Descriptions Like It's 1995 (Respectfully)
 excerpt: >-
   Your job posts are giving corporate cringe and that's why nobody's applying.
   Here's how to actually attract talent.
-author: Lisa Park
+author: Judy 'Just The Tip' Terry
 date: 'October 13, 2025'
 readTime: 4 min read
 imageUrl: /images/just-the-tip/job-descriptions-1995.jpg

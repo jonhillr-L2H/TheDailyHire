@@ -3,7 +3,7 @@ title: ChatGPT Said Every Candidate Is a 'Perfect Fit' and We Can't Stop Laughin
 excerpt: >-
   We fed our AI recruiter some absolutely unhinged resumes. The results were
   *chef's kiss* chaotic.
-author: Dave Romano
+author: Stan 'The Funny Man' Fisher
 date: 'October 14, 2025'
 readTime: 3 min read
 imageUrl: /images/ai-funnies/chatgpt-perfect-fit.jpg

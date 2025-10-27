@@ -3,7 +3,7 @@ title: AI Is Screening Your Candidates and It's Low-Key Savage AF
 excerpt: >-
   ChatGPT just rejected 847 applicants in 3 minutes. Should you be concerned?
   Absolutely. Should you be impressed? Also absolutely.
-author: Sarah Mitchell
+author: Judah 'News Boy' Jacobs
 date: 'October 17, 2025'
 readTime: 5 min read
 imageUrl: /images/news/ai-screening-candidates.jpg
