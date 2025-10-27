@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   description: 'No corporate cringe. No fluff. Just the hottest takes, tools, and tips in recruiting.',
   keywords: ['recruiting', 'hiring', 'HR', 'talent acquisition', 'recruitment news', 'recruiting tools'],
   authors: [{ name: 'The Daily Hire' }],
+  verification: {
+    google: '2MlYmYobf4gnRQWtyzKrTg25w8xWDim0WGiR99fhRVc',
+  },
   icons: {
     icon: '/favicon.ico',
     apple: '/apple-icon.png',
