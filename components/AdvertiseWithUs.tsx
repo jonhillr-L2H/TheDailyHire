@@ -10,10 +10,11 @@ import { Linkedin } from 'lucide-react';
  */
 
 type AdvertiseWithUsProps = {
-  variant?: 1 | 2 | 3;
+  variant?: 1 | 2 | 3 | 4;
+  compact?: boolean;
 };
 
-export function AdvertiseWithUs({ variant = 1 }: AdvertiseWithUsProps) {
+export function AdvertiseWithUs({ variant = 1, compact = false }: AdvertiseWithUsProps) {
   // Your social media URLs - update these with your actual handles
   const X_URL = 'https://twitter.com/messages/compose?recipient_id=YOUR_X_ID'; // Replace with your X/Twitter DM link
   const LINKEDIN_URL = 'https://www.linkedin.com/company/the-daily-hire'; // Replace with your LinkedIn company page
@@ -164,4 +165,41 @@ export function AdvertiseWithUs({ variant = 1 }: AdvertiseWithUsProps) {
       </div>
     </div>
   );
+
+  // Compact variant for between sections
+  if (compact) {
+    return (
+      <div className="w-full py-8">
+        <div className="max-w-2xl mx-auto">
+          <div className="bg-[#1a2332] rounded-lg p-5 text-center border border-gray-700">
+            <p className="text-gray-300 text-sm mb-3">
+              Reach thousands of recruiting professionals
+            </p>
+            <div className="flex gap-3 justify-center">
+              <a
+                href={X_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => handleSocialClick('X')}
+                className="flex items-center gap-2 bg-black hover:bg-gray-900 text-white text-sm font-medium px-4 py-2 rounded-md transition-all duration-300"
+              >
+                <XLogo className="w-4 h-4" />
+                Message on X
+              </a>
+              <a
+                href={LINKEDIN_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => handleSocialClick('LinkedIn')}
+                className="flex items-center gap-2 bg-[#0A66C2] hover:bg-[#094d92] text-white text-sm font-medium px-4 py-2 rounded-md transition-all duration-300"
+              >
+                <Linkedin className="w-4 h-4" />
+                Message on LinkedIn
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
 }
