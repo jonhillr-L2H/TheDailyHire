@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   description: 'No corporate cringe. No fluff. Just the hottest takes, tools, and tips in recruiting.',
   keywords: ['recruiting', 'hiring', 'HR', 'talent acquisition', 'recruitment news', 'recruiting tools'],
   authors: [{ name: 'The Daily Hire' }],
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/apple-icon.png',
+  },
+  manifest: '/site.webmanifest',
   openGraph: {
     title: 'The Daily Hire | Recruiting News That Actually Slaps',
     description: 'No corporate cringe. No fluff. Just the hottest takes, tools, and tips in recruiting.',
