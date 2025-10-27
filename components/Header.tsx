@@ -9,7 +9,7 @@ const NAV_ITEMS: { name: string; path: Category | 'about' }[] = [
   { name: 'NEWS', path: 'news' },
   { name: 'TOOLS', path: 'tools' },
   { name: 'FUNNIES', path: 'ai-funnies' },
-  { name: 'JUST THE TIP', path: 'just-the-tip' },
+  { name: 'THE TIP', path: 'just-the-tip' },
   { name: 'ABOUT', path: 'about' },
 ];
 
@@ -61,7 +61,7 @@ export function Header() {
 
         {/* Navigation */}
         <nav className="flex items-center justify-center">
-          <ul className="flex flex-wrap items-center justify-center gap-6 md:gap-8">
+          <ul className="flex flex-wrap items-center justify-center gap-4 md:gap-8">
             {NAV_ITEMS.map((item) => (
               <li key={item.path}>
                 <Link
