@@ -1,5 +1,6 @@
 import { Hero } from '@/components/Hero';
 import { FeaturedStories } from '@/components/FeaturedStories';
+import { Link2StartAd } from '@/components/Link2StartAd';
 import { Container } from '@/components/ui';
 import { getAllArticles, getFeaturedArticles } from '@/lib/articles';
 import { renderArticlesWithAds } from '@/lib/renderHelpers';
@@ -17,6 +18,7 @@ export default async function HomePage() {
   return (
     <div>
       <Hero />
+      <Link2StartAd />
       <FeaturedStories articles={featuredArticles} />
 
       <Container className="py-12">

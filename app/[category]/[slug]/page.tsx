@@ -4,6 +4,9 @@ import { ArrowLeft, Clock, User, Calendar } from 'lucide-react';
 import { getArticleBySlug, getRandomArticles, getAllArticleSlugs } from '@/lib/articles';
 import { RelatedArticles } from '@/components/RelatedArticles';
 import { AIDisclaimer } from '@/components/AIDisclaimer';
+import { Link2StartAd } from '@/components/Link2StartAd';
+import { AdCard } from '@/components/AdCard';
+import { showLink2StartAd } from '@/lib/adPlacement';
 import { Badge, Container } from '@/components/ui';
 import { CATEGORY_LABELS, type Category } from '@/types';
 import type { Metadata } from 'next';
@@ -64,6 +67,7 @@ export default async function ArticlePage({ params }: Props) {
   }
 
   const relatedArticles = await getRandomArticles(category, slug, 3);
+  const useLink2StartAd = showLink2StartAd(slug);
 
   return (
     <div>
@@ -121,6 +125,9 @@ export default async function ArticlePage({ params }: Props) {
                 prose-li:text-base prose-li:md:text-lg prose-li:leading-relaxed"
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
+
+            {/* Ad Placement - Link2Start on ~25% of articles, Google AdSense on the rest */}
+            {useLink2StartAd ? <Link2StartAd /> : <AdCard />}
 
             {/* AI Disclaimer */}
             <AIDisclaimer />
