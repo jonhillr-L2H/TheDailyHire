@@ -51,12 +51,12 @@ export function Link2StartAd() {
             </div>
 
             {/* Text content stacked */}
-            <div className="flex flex-col gap-1">
-              <div className="flex items-center gap-2">
-                <div className="text-xl font-bold bg-gradient-to-r from-[#6B46C1] via-[#5B8FE8] to-[#67C9C0] bg-clip-text text-transparent">
+            <div className="flex flex-col gap-1 min-w-0 flex-1">
+              <div className="flex items-center gap-2 flex-wrap">
+                <div className="text-xl font-bold bg-gradient-to-r from-[#6B46C1] via-[#5B8FE8] to-[#67C9C0] bg-clip-text text-transparent whitespace-nowrap">
                   Link2Start
                 </div>
-                <span className="text-xs text-gray-400">Advertisement</span>
+                <span className="text-xs text-gray-400 whitespace-nowrap">Advertisement</span>
               </div>
               <div className="text-lg text-white font-medium">
                 Still presenting candidates like it&apos;s 1999?
