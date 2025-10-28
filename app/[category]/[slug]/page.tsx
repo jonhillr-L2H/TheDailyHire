@@ -43,6 +43,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://thedailyhire.com';
   const canonicalUrl = `${baseUrl}/${category}/${slug}`;
+  const ogImageUrl = `${baseUrl}/${category}/${slug}/opengraph-image`;
 
   return {
     title: `${article.title} | The Daily Hire`,
@@ -56,14 +57,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'article',
       publishedTime: article.date,
       authors: [article.author],
-      images: [article.imageUrl],
+      images: [ogImageUrl],
       url: canonicalUrl,
     },
     twitter: {
       card: 'summary_large_image',
       title: article.title,
       description: article.excerpt,
-      images: [article.imageUrl],
+      images: [ogImageUrl],
     },
   };
 }
