@@ -2,7 +2,8 @@ import { ImageResponse } from 'next/og';
 import { getArticleBySlug } from '@/lib/articles';
 import type { Category } from '@/types';
 
-export const runtime = 'edge';
+// Use nodejs runtime instead of edge to access file system
+export const runtime = 'nodejs';
 export const alt = 'The Daily Hire Article';
 export const size = {
   width: 1200,
