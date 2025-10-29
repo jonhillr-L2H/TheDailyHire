@@ -79,7 +79,7 @@ export function Footer() {
               <h3 className="text-lg font-semibold text-white mb-4">Follow Us</h3>
               <div className="flex gap-4">
                 <a
-                  href="https://twitter.com/YOUR_HANDLE"
+                  href="https://x.com/TheDailyHire"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-gray-300 transition-colors"
@@ -88,7 +88,7 @@ export function Footer() {
                   <XLogo className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/company/the-daily-hire"
+                  href="https://www.linkedin.com/company/the-daily-hire/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-blue-400 transition-colors"

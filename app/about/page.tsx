@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { Container } from '@/components/ui';
 import Link from 'next/link';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, Linkedin } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'About The Daily Hire | Recruiting News & Industry Insights',
@@ -26,6 +26,13 @@ export const metadata: Metadata = {
 };
 
 export default function AboutPage() {
+  // X logo as SVG component
+  const XLogo = ({ className }: { className?: string }) => (
+    <svg viewBox="0 0 24 24" className={className} fill="currentColor">
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+    </svg>
+  );
+
   return (
     <Container className="py-12">
       <div className="max-w-3xl mx-auto">
@@ -178,7 +185,7 @@ export default function AboutPage() {
             <p>
               Follow us on{' '}
               <a
-                href="https://twitter.com/YOUR_HANDLE"
+                href="https://x.com/TheDailyHire"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors"
@@ -187,7 +194,7 @@ export default function AboutPage() {
               </a>{' '}
               and{' '}
               <a
-                href="https://www.linkedin.com/company/the-daily-hire"
+                href="https://www.linkedin.com/company/the-daily-hire/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors"
@@ -203,10 +210,30 @@ export default function AboutPage() {
               <p className="text-lg text-gray-200 mb-4">
                 <strong>Have a story idea or want to contribute?</strong>
               </p>
-              <p className="text-gray-300">
+              <p className="text-gray-300 mb-6">
                 We&apos;re always looking for fresh perspectives and industry insights. Reach out
                 to us on social media—we&apos;d love to hear from you.
               </p>
+              <div className="flex gap-4 justify-center">
+                <a
+                  href="https://x.com/TheDailyHire"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-gray-300 transition-colors"
+                  aria-label="Follow us on X"
+                >
+                  <XLogo className="w-6 h-6" />
+                </a>
+                <a
+                  href="https://www.linkedin.com/company/the-daily-hire/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-blue-400 transition-colors"
+                  aria-label="Follow us on LinkedIn"
+                >
+                  <Linkedin className="w-6 h-6" />
+                </a>
+              </div>
             </div>
           </div>
         </article>

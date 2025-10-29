@@ -39,7 +39,7 @@ export function Header() {
           {/* Social Icons - positioned to the right on desktop, below on mobile */}
           <div className="absolute right-0 top-1/2 -translate-y-1/2 hidden md:flex items-center gap-3">
             <a
-              href="https://twitter.com/YOUR_HANDLE"
+              href="https://x.com/TheDailyHire"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-gray-300 transition-colors"
@@ -48,7 +48,7 @@ export function Header() {
               <XLogo className="w-4 h-4" />
             </a>
             <a
-              href="https://www.linkedin.com/company/the-daily-hire"
+              href="https://www.linkedin.com/company/the-daily-hire/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-blue-400 transition-colors"
@@ -82,7 +82,7 @@ export function Header() {
         {/* Mobile Social Icons - show below nav on mobile */}
         <div className="flex md:hidden items-center justify-center gap-4 mt-3">
           <a
-            href="https://twitter.com/YOUR_HANDLE"
+            href="https://x.com/TheDailyHire"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-300 transition-colors"
@@ -91,7 +91,7 @@ export function Header() {
             <XLogo className="w-4 h-4" />
           </a>
           <a
-            href="https://www.linkedin.com/company/the-daily-hire"
+            href="https://www.linkedin.com/company/the-daily-hire/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-blue-400 transition-colors"
