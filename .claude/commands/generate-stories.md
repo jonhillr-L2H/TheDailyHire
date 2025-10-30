@@ -2,18 +2,37 @@
 
 Generate high-quality blog articles for The Daily Hire following our established style, structure, and writer personalities.
 
-## 📚 REQUIRED: Read Existing Stories First
+## 🚨 CRITICAL REQUIREMENTS - READ FIRST
 
-**BEFORE generating any content, you MUST:**
+**EVERY article generation MUST follow this workflow:**
+
+### 1️⃣ PREVENT DUPLICATES (NON-NEGOTIABLE)
+**BEFORE generating ANY content:**
+- List ALL existing articles in target category: `ls -1 content/[category]/`
+- Review existing article titles/slugs to identify covered topics
+- **NEVER duplicate existing topics** - each article must be completely new
+- If researching a similar area, find a fresh angle that hasn't been covered
+
+### 2️⃣ ENSURE FRESH & RELEVANT CONTENT
+**Every article MUST be:**
+- ✅ **Research-backed** - Search web for recruiting trends from last 7-30 days
+- ✅ **Current/timely** - Reference 2025 trends, not old news from 2023-2024
+- ✅ **Unique angle** - Not rehashing what's already on the site
+- ✅ **Actionable/useful** - Readers should learn something new
+
+### 3️⃣ MATCH STYLE (Read Existing Stories)
+**After checking for duplicates:**
 1. Read 2-3 random existing stories from the target category as style examples
 2. Note their tone, structure, and voice
 3. Match that style in new content
 
 Example:
 ```
-Target: Generate 5 News stories
-Action: First read content/news/[2-3 random files].md
-Then: Generate new stories matching that style
+Target: Generate 4 News stories
+Step 1: ls -1 content/news/ → Check what topics exist
+Step 2: Web search for fresh recruiting news (Oct-Nov 2025)
+Step 3: Read content/news/[2-3 random files].md for style
+Step 4: Generate NEW stories with fresh angles
 ```
 
 ## 👥 Writer Profiles & Personalities
@@ -132,9 +151,10 @@ Then: Generate new stories matching that style
 ## 📝 Content Requirements
 
 ### Style & Tone:
-- Edgy, conversational, humorous
+- **EDGY, FUN TO READ, ENGAGING** - This is non-negotiable
+- Conversational and humorous - readers should enjoy reading this
 - No corporate BS or buzzwords (unless mocking them)
-- Eye-catching, often humorous headlines
+- Eye-catching, often humorous headlines that make people want to click
 - Original content - NO plagiarism
 - Proper journalistic practices
 
@@ -270,6 +290,9 @@ Generate 3 Tools stories reviewing ATS platforms, dated Oct 15-17, 2025
 ## ✅ Quality Checklist
 
 Before saving each story, verify:
+- [ ] **CHECKED FOR DUPLICATES** - Listed existing articles, confirmed topic is NEW
+- [ ] **FRESH & RELEVANT** - Researched current trends (last 7-30 days), not old news
+- [ ] **EDGY, FUN, ENGAGING** - Content is entertaining and worth reading
 - [ ] Read 2-3 existing stories from category as examples
 - [ ] Searched web for current trends/data
 - [ ] Selected topic from approved category list
@@ -290,6 +313,7 @@ Before saving each story, verify:
 ## 🚫 Content Guardrails
 
 ### DO:
+✅ **Keep it EDGY, FUN, and ENGAGING** - boring = failure
 ✅ Use conversational, edgy tone
 ✅ Include humor and personality
 ✅ Cite and hyperlink all sources
@@ -299,8 +323,13 @@ Before saving each story, verify:
 ✅ Be brutally honest about practices, not brands (Tools)
 ✅ Layer wisdom within humor (Funnies)
 ✅ Make advice actionable (Just the Tip)
+✅ **Check existing articles FIRST to avoid duplicates**
+✅ **Research FRESH content** from last 7-30 days
 
 ### DON'T:
+❌ **DUPLICATE existing article topics** - always check first
+❌ **Use old/stale news** - must be current and relevant
+❌ **Write boring content** - edgy and engaging is mandatory
 ❌ Plagiarize or copy content
 ❌ Slander specific brands/companies/people
 ❌ Use "the tea is..." in every News story
@@ -315,11 +344,23 @@ Before saving each story, verify:
 
 Once you understand all requirements, begin with:
 
-**Step 1:** Read 2-3 existing stories from target category
-**Step 2:** Search web for current trends
-**Step 3:** Select topics and generate content
-**Step 4:** Save with proper formatting
-**Step 5:** AUTO-FETCH IMAGES using Lorem Picsum (see below)
+**Step 1:** List existing articles in category to avoid duplicates (`ls -1 content/[category]/`)
+**Step 2:** Web search for FRESH recruiting trends (last 7-30 days)
+**Step 3:** Read 2-3 existing stories from target category for style matching
+**Step 4:** Select NEW topics that haven't been covered yet
+**Step 5:** Generate EDGY, FUN, ENGAGING content with proper citations
+**Step 6:** Save with proper formatting
+**Step 7:** AUTO-FETCH IMAGES using Lorem Picsum (see below)
+
+## 📅 DAILY CONTENT STRUCTURE
+
+**Standard Daily Generation: 16 articles (4 per category)**
+- 4 NEWS stories by Judah "News Boy" Jacobs
+- 4 TOOLS stories by Terry "The Tool" Shepard
+- 4 FUNNIES stories by Stan "The Funny Man" Fisher
+- 4 JUST THE TIP stories by Judy "Just The Tip" Terry
+
+All articles must be dated for the current day with staggered publish times.
 
 ## 🖼️ AUTOMATIC IMAGE GENERATION
 
