@@ -1,8 +1,10 @@
 ---
-title: "LinkedIn InMail Spam: A Hall of Shame"
-excerpt: I collected the worst recruiter InMails from the past month. These are real. These people are paid to recruit. I have questions.
+title: 'LinkedIn InMail Spam: A Hall of Shame'
+excerpt: >-
+  I collected the worst recruiter InMails from the past month. These are real.
+  These people are paid to recruit. I have questions.
 author: Stan 'The Funny Man' Fisher
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/linkedin-inmail-spam-hall-of-shame.jpg
 featured: false

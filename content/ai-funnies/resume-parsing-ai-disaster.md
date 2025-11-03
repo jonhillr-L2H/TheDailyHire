@@ -1,8 +1,11 @@
 ---
-title: "Our Resume Parser Thought 'Java' Was an Island and 'Python' Was a Snake"
-excerpt: We upgraded to an AI-powered resume parser that promised 99% accuracy. It confidently told us a candidate's top skills were Southeast Asian geography and reptile knowledge.
+title: Our Resume Parser Thought 'Java' Was an Island and 'Python' Was a Snake
+excerpt: >-
+  We upgraded to an AI-powered resume parser that promised 99% accuracy. It
+  confidently told us a candidate's top skills were Southeast Asian geography
+  and reptile knowledge.
 author: Stan 'The Funny Man' Fisher
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/resume-parsing-ai-disaster.jpg
 featured: false

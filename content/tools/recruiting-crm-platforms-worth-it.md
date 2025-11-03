@@ -1,8 +1,11 @@
 ---
-title: "Recruiting CRMs: The Tool You Don't Know You Need (Until You Do)"
-excerpt: Most companies don't think they need a recruiting CRM until their talent pipeline is a disaster. Here's when a CRM actually makes sense and when it's just extra software bloat.
+title: 'Recruiting CRMs: The Tool You Don''t Know You Need (Until You Do)'
+excerpt: >-
+  Most companies don't think they need a recruiting CRM until their talent
+  pipeline is a disaster. Here's when a CRM actually makes sense and when it's
+  just extra software bloat.
 author: Terry 'The Tool' Shepard
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
 imageUrl: /images/tools/recruiting-crm-platforms-worth-it.jpg
 featured: false

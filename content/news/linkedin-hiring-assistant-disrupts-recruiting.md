@@ -1,10 +1,15 @@
 ---
-title: "LinkedIn's New Hiring Assistant Is Here and Corporate Recruiters Are Freaking Out"
-excerpt: LinkedIn just launched an AI recruiting agent that handles sourcing, screening, and outreach autonomously. AMD, Canva, and Siemens are already using it. Is your job safe?
+title: >-
+  LinkedIn's New Hiring Assistant Is Here and Corporate Recruiters Are Freaking
+  Out
+excerpt: >-
+  LinkedIn just launched an AI recruiting agent that handles sourcing,
+  screening, and outreach autonomously. AMD, Canva, and Siemens are already
+  using it. Is your job safe?
 author: Judah 'News Boy' Jacobs
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=800&q=80
+imageUrl: /images/news/linkedin-hiring-assistant-disrupts-recruiting.jpg
 featured: false
 ---
 

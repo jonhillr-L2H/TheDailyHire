@@ -1,10 +1,13 @@
 ---
-title: "AI Just Cut Time-to-Hire by 40%—And Your Competitors Are Already Using It"
-excerpt: Companies using AI in recruiting are filling roles 40% faster than those stuck in manual processes. If you're not leveraging AI by now, you're operating at a massive disadvantage.
+title: AI Just Cut Time-to-Hire by 40%—And Your Competitors Are Already Using It
+excerpt: >-
+  Companies using AI in recruiting are filling roles 40% faster than those stuck
+  in manual processes. If you're not leveraging AI by now, you're operating at a
+  massive disadvantage.
 author: Judah 'News Boy' Jacobs
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80
+imageUrl: /images/news/ai-cuts-time-to-hire-40-percent.jpg
 featured: false
 ---
 

@@ -1,8 +1,11 @@
 ---
-title: "Agentic AI Is Making Recruiters Obsolete (JK—But Your Job's About to Change)"
-excerpt: Agentic AI isn't just screening resumes anymore—it's running entire recruiting workflows autonomously. Here's why 2025 is the year recruiters become strategists instead of screeners.
+title: Agentic AI Is Making Recruiters Obsolete (JK—But Your Job's About to Change)
+excerpt: >-
+  Agentic AI isn't just screening resumes anymore—it's running entire recruiting
+  workflows autonomously. Here's why 2025 is the year recruiters become
+  strategists instead of screeners.
 author: Judah 'News Boy' Jacobs
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 5 min read
 imageUrl: /images/news/agentic-ai-recruiting-revolution.jpg
 featured: false

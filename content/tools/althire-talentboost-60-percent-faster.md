@@ -1,10 +1,15 @@
 ---
-title: "AltHire TalentBoost Claims 60% Faster Time-to-Hire—I Tested It and Here's the Truth"
-excerpt: AltHire is marketing TalentBoost as the solution to slow hiring processes, promising 60% faster time-to-hire. Does it deliver, or is this another overpromised recruiting tool that underdelivers?
+title: >-
+  AltHire TalentBoost Claims 60% Faster Time-to-Hire—I Tested It and Here's the
+  Truth
+excerpt: >-
+  AltHire is marketing TalentBoost as the solution to slow hiring processes,
+  promising 60% faster time-to-hire. Does it deliver, or is this another
+  overpromised recruiting tool that underdelivers?
 author: Terry 'The Tool' Shepard
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80
+imageUrl: /images/tools/althire-talentboost-60-percent-faster.jpg
 featured: false
 ---
 

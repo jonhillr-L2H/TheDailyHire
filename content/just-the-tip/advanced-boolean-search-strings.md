@@ -1,8 +1,10 @@
 ---
-title: "Advanced Boolean Search Strings That Actually Find Hidden Candidates"
-excerpt: Basic Boolean search finds 100 candidates. Advanced Boolean search finds the 10 that everyone else missed. Here's how to level up your sourcing game.
+title: Advanced Boolean Search Strings That Actually Find Hidden Candidates
+excerpt: >-
+  Basic Boolean search finds 100 candidates. Advanced Boolean search finds the
+  10 that everyone else missed. Here's how to level up your sourcing game.
 author: Judy 'Just The Tip' Terry
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/just-the-tip/advanced-boolean-search-strings.jpg
 featured: false

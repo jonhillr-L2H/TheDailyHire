@@ -1,8 +1,11 @@
 ---
-title: "Candidate Texting Platforms: Because Nobody Answers Their Phone Anymore"
-excerpt: Email response rates are tanking. Phone screens are dying. Text messaging is how candidates actually want to communicate. But most texting platforms are spam machines in disguise.
+title: 'Candidate Texting Platforms: Because Nobody Answers Their Phone Anymore'
+excerpt: >-
+  Email response rates are tanking. Phone screens are dying. Text messaging is
+  how candidates actually want to communicate. But most texting platforms are
+  spam machines in disguise.
 author: Terry 'The Tool' Shepard
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
 imageUrl: /images/tools/candidate-texting-platforms-2025.jpg
 featured: false

@@ -1,10 +1,14 @@
 ---
-title: "Job Posting Asks for 'Rockstar Ninja' Who 'Wears Many Hats,' Wonders Why Nobody Applied"
-excerpt: "Another startup discovers that describing jobs using meaningless buzzwords and unrealistic expectations doesn't attract qualified candidates. Shocking."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80"
+title: >-
+  Job Posting Asks for 'Rockstar Ninja' Who 'Wears Many Hats,' Wonders Why
+  Nobody Applied
+excerpt: >-
+  Another startup discovers that describing jobs using meaningless buzzwords and
+  unrealistic expectations doesn't attract qualified candidates. Shocking.
+author: Stan 'The Funny Man' Fisher
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/job-posting-red-flags.jpg
 featured: false
 ---
 

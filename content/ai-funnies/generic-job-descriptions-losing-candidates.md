@@ -1,10 +1,13 @@
 ---
-title: "Your Generic Job Description Just Lost You 80% of Qualified Candidates"
-excerpt: Boring, generic job descriptions are killing your recruiting. Research shows candidates close the tab within 30 seconds when job postings read like corporate Mad Libs. Here's why your JDs suck.
+title: Your Generic Job Description Just Lost You 80% of Qualified Candidates
+excerpt: >-
+  Boring, generic job descriptions are killing your recruiting. Research shows
+  candidates close the tab within 30 seconds when job postings read like
+  corporate Mad Libs. Here's why your JDs suck.
 author: Stan 'The Funny Man' Fisher
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80
+imageUrl: /images/ai-funnies/generic-job-descriptions-losing-candidates.jpg
 featured: false
 ---
 

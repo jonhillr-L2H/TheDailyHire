@@ -1,8 +1,11 @@
 ---
-title: "Gen Z Isn't Job Hopping—You're Just Bad at Retention"
-excerpt: Companies are blaming Gen Z for high turnover while ignoring the real problem. Spoiler alert - it's not the generation, it's your outdated hiring and retention strategies.
+title: Gen Z Isn't Job Hopping—You're Just Bad at Retention
+excerpt: >-
+  Companies are blaming Gen Z for high turnover while ignoring the real problem.
+  Spoiler alert - it's not the generation, it's your outdated hiring and
+  retention strategies.
 author: Judah 'News Boy' Jacobs
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
 imageUrl: /images/news/gen-z-job-hopping-myth.jpg
 featured: false

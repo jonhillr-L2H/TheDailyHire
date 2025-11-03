@@ -1,8 +1,8 @@
 ---
-title: "Greenhouse 2025 Review: The Analytics Just Got Scary Good"
-excerpt: Greenhouse just cemented its position as the #1 ATS in every category. Here's what changed—and whether you should care.
+title: 'Greenhouse 2025 Review: The Analytics Just Got Scary Good'
+excerpt: Greenhouse just cemented its position as the
 author: Terry 'Tech Guru' Thompson
-date: October 31, 2025
+date: 'October 31, 2025'
 readTime: 7 min read
 imageUrl: /images/tools/greenhouse-2025-analytics-powerhouse.jpg
 featured: false

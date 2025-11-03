@@ -1,13 +1,13 @@
 ---
-title: "Blockchain Credential Verification: Solving Resume Fraud or Overhyped Tech?"
+title: 'Blockchain Credential Verification: Solving Resume Fraud or Overhyped Tech?'
 excerpt: >-
   Blockchain platforms promise to end resume lies and fake degrees forever. But
   do recruiters actually need distributed ledgers to verify credentials, or is
   this just crypto bros invading HR?
 author: Terry 'The Tool' Shepard
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80
+imageUrl: /images/tools/blockchain-credential-verification-platforms.jpg
 featured: false
 ---
 

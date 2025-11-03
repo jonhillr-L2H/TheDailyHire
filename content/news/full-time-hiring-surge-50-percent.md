@@ -1,10 +1,15 @@
 ---
-title: "50% of Companies Are Hiring More Full-Time Workers in 2025 (Here's Why That's Huge)"
-excerpt: After years of gig economy hype and contingent workforce expansion, half of all companies are now increasing full-time headcount. The shift is real—and it changes everything.
+title: >-
+  50% of Companies Are Hiring More Full-Time Workers in 2025 (Here's Why That's
+  Huge)
+excerpt: >-
+  After years of gig economy hype and contingent workforce expansion, half of
+  all companies are now increasing full-time headcount. The shift is real—and it
+  changes everything.
 author: Judah 'News Boy' Jacobs
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80
+imageUrl: /images/news/full-time-hiring-surge-50-percent.jpg
 featured: false
 ---
 

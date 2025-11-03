@@ -1,8 +1,11 @@
 ---
-title: "Recruiting Fraud Detection Tools: The Monsters Hiding in Your Applicant Pool"
-excerpt: Deepfakes, fake candidates, and synthetic identities aren't Halloween costumes—they're in your ATS right now. Here's how to catch them before they cost you millions.
+title: 'Recruiting Fraud Detection Tools: The Monsters Hiding in Your Applicant Pool'
+excerpt: >-
+  Deepfakes, fake candidates, and synthetic identities aren't Halloween
+  costumes—they're in your ATS right now. Here's how to catch them before they
+  cost you millions.
 author: Terry 'Tech Guru' Thompson
-date: October 31, 2025
+date: 'October 31, 2025'
 readTime: 8 min read
 imageUrl: /images/tools/recruiting-fraud-detection-tools-halloween.jpg
 featured: true

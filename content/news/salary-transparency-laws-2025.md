@@ -1,8 +1,13 @@
 ---
-title: "New Salary Transparency Laws Hit 2025—And Your Job Postings Might Already Be Illegal"
-excerpt: Massachusetts, New Jersey, and Vermont just joined the salary transparency club. If you're still playing hide-and-seek with compensation ranges, you're about to get fined.
+title: >-
+  New Salary Transparency Laws Hit 2025—And Your Job Postings Might Already Be
+  Illegal
+excerpt: >-
+  Massachusetts, New Jersey, and Vermont just joined the salary transparency
+  club. If you're still playing hide-and-seek with compensation ranges, you're
+  about to get fined.
 author: Judah 'News Boy' Jacobs
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 5 min read
 imageUrl: /images/news/salary-transparency-laws-2025.jpg
 featured: false

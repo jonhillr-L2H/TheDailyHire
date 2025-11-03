@@ -1,8 +1,11 @@
 ---
-title: "Reference Checking Software: Automating The Part Nobody Actually Wants to Do"
-excerpt: Reference checks are tedious, time-consuming, and candidates always give you references who will say nice things. Can software make this less painful? I tested 5 platforms to find out.
+title: 'Reference Checking Software: Automating The Part Nobody Actually Wants to Do'
+excerpt: >-
+  Reference checks are tedious, time-consuming, and candidates always give you
+  references who will say nice things. Can software make this less painful? I
+  tested 5 platforms to find out.
 author: Terry 'The Tool' Shepard
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
 imageUrl: /images/tools/reference-checking-software-review.jpg
 featured: false

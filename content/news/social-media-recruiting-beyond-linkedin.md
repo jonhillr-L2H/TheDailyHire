@@ -1,10 +1,13 @@
 ---
-title: "92% of Companies Are Recruiting on Social Media—But Not Where You Think"
-excerpt: LinkedIn isn't the only game in town anymore. TikTok, Instagram, and even Discord are where Gen Z talent is hiding. Here's how social recruiting just got way more complicated.
+title: 92% of Companies Are Recruiting on Social Media—But Not Where You Think
+excerpt: >-
+  LinkedIn isn't the only game in town anymore. TikTok, Instagram, and even
+  Discord are where Gen Z talent is hiding. Here's how social recruiting just
+  got way more complicated.
 author: Judah 'News Boy' Jacobs
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80
+imageUrl: /images/news/social-media-recruiting-beyond-linkedin.jpg
 featured: false
 ---
 

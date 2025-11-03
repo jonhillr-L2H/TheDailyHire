@@ -1,8 +1,11 @@
 ---
-title: "LinkedIn Profile Optimization for Recruiters (So Candidates Actually Respond)"
-excerpt: Your LinkedIn profile is your first impression with candidates. If it looks like spam or screams 'agency recruiter chaos,' don't expect responses. Here's how to fix it.
+title: LinkedIn Profile Optimization for Recruiters (So Candidates Actually Respond)
+excerpt: >-
+  Your LinkedIn profile is your first impression with candidates. If it looks
+  like spam or screams 'agency recruiter chaos,' don't expect responses. Here's
+  how to fix it.
 author: Judy 'Just The Tip' Terry
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/just-the-tip/linkedin-profile-optimization-recruiters.jpg
 featured: false

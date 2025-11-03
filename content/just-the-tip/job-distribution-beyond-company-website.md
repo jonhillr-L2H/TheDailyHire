@@ -1,10 +1,15 @@
 ---
-title: "Stop Posting Jobs Only on Your Website (Distribution Strategy That Actually Works)"
-excerpt: Your company careers page gets a fraction of the traffic that major job boards and platforms do. Here's the multi-channel distribution strategy that fills roles faster.
+title: >-
+  Stop Posting Jobs Only on Your Website (Distribution Strategy That Actually
+  Works)
+excerpt: >-
+  Your company careers page gets a fraction of the traffic that major job boards
+  and platforms do. Here's the multi-channel distribution strategy that fills
+  roles faster.
 author: Judy 'Just The Tip' Terry
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&q=80
+imageUrl: /images/just-the-tip/job-distribution-beyond-company-website.jpg
 featured: false
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: "How to Follow Up With Candidates Without Being Annoying (Or Desperate)"
-excerpt: "There's a sweet spot between ghosting candidates and stalking them. Here's exactly how to find it."
-author: "Judy 'Just The Tip' Terry"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80"
+title: How to Follow Up With Candidates Without Being Annoying (Or Desperate)
+excerpt: >-
+  There's a sweet spot between ghosting candidates and stalking them. Here's
+  exactly how to find it.
+author: Judy 'Just The Tip' Terry
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/just-the-tip/candidate-follow-up-that-works.jpg
 featured: false
 ---
 

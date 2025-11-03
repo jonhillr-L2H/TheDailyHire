@@ -1,8 +1,10 @@
 ---
-title: "AI Now Handles 95% of Initial Candidate Screening—Humans Need Not Apply"
-excerpt: Artificial intelligence is taking over the first filter of recruiting, and the numbers prove humans are becoming an endangered species in resume review.
+title: AI Now Handles 95% of Initial Candidate Screening—Humans Need Not Apply
+excerpt: >-
+  Artificial intelligence is taking over the first filter of recruiting, and the
+  numbers prove humans are becoming an endangered species in resume review.
 author: Judah 'News Boy' Jacobs
-date: October 31, 2025
+date: 'October 31, 2025'
 readTime: 5 min read
 imageUrl: /images/news/ai-screening-95-percent-2025.jpg
 featured: false

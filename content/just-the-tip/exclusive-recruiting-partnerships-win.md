@@ -1,7 +1,9 @@
 ---
 title: 'Just the Tip: Why Playing the Field with Recruiters Is Screwing Your Hiring'
 excerpt: >-
-  Think hiring multiple recruiting agencies means more candidates? Wrong. You're just getting a flood of mediocre resumes and zero accountability. Here's why exclusive partnerships actually work.
+  Think hiring multiple recruiting agencies means more candidates? Wrong. You're
+  just getting a flood of mediocre resumes and zero accountability. Here's why
+  exclusive partnerships actually work.
 author: Judy 'Just The Tip' Terry
 date: 'October 31, 2025'
 readTime: 5 min read

@@ -1,8 +1,10 @@
 ---
-title: "The 70% Nobody's Talking About: Passive Candidates Run the Job Market Now"
-excerpt: While you're posting jobs and waiting for applications, 70% of the workforce isn't even looking—and they're exactly who you need to hire.
+title: 'The 70% Nobody''s Talking About: Passive Candidates Run the Job Market Now'
+excerpt: >-
+  While you're posting jobs and waiting for applications, 70% of the workforce
+  isn't even looking—and they're exactly who you need to hire.
 author: Judah 'News Boy' Jacobs
-date: October 31, 2025
+date: 'October 31, 2025'
 readTime: 6 min read
 imageUrl: /images/news/passive-candidate-engagement-crisis.jpg
 featured: false

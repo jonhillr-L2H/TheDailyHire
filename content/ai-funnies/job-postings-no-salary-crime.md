@@ -1,10 +1,14 @@
 ---
-title: "95% of Job Seekers Want Salary in Job Postings. Only 12% of Postings Include It. This Is a Crime."
-excerpt: "Job seekers overwhelmingly want salary transparency. Employers overwhelmingly refuse to provide it. Someone explain how this makes sense."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 30, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80"
+title: >-
+  95% of Job Seekers Want Salary in Job Postings. Only 12% of Postings Include
+  It. This Is a Crime.
+excerpt: >-
+  Job seekers overwhelmingly want salary transparency. Employers overwhelmingly
+  refuse to provide it. Someone explain how this makes sense.
+author: Stan 'The Funny Man' Fisher
+date: 'October 30, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/job-postings-no-salary-crime.jpg
 featured: false
 ---
 

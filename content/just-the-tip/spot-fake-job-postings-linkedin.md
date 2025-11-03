@@ -1,10 +1,12 @@
 ---
-title: "How to Spot Fake Job Postings on LinkedIn (Before You Waste Your Time)"
-excerpt: Fake jobs on LinkedIn are everywhere in 2025. Here's your checklist to identify scams, ghost jobs, and time-wasting postings before you apply.
+title: How to Spot Fake Job Postings on LinkedIn (Before You Waste Your Time)
+excerpt: >-
+  Fake jobs on LinkedIn are everywhere in 2025. Here's your checklist to
+  identify scams, ghost jobs, and time-wasting postings before you apply.
 author: Judy 'Just The Tip' Terry
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1590650153855-d9e808231d41?w=800&q=80
+imageUrl: /images/just-the-tip/spot-fake-job-postings-linkedin.jpg
 featured: false
 ---
 

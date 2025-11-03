@@ -1,10 +1,13 @@
 ---
-title: "Stop Overselling Your Culture in Interviews (Candidates Can Tell You're Lying)"
-excerpt: Your company is not a family. The job is not an adventure. Candidates see through the BS. Here's how to talk about culture honestly without scaring everyone away.
+title: Stop Overselling Your Culture in Interviews (Candidates Can Tell You're Lying)
+excerpt: >-
+  Your company is not a family. The job is not an adventure. Candidates see
+  through the BS. Here's how to talk about culture honestly without scaring
+  everyone away.
 author: Judy 'Just The Tip' Terry
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
-imageUrl: /images/tips/stop-overselling-company-culture.jpg
+imageUrl: /images/just-the-tip/stop-overselling-company-culture.jpg
 featured: false
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: "The Only Chrome Extensions Recruiters Actually Need in 2025"
-excerpt: "Your browser has 47 extensions and you use 3 of them. Here are the Chrome extensions that actually make recruiting easier, not just clutter."
-author: "Terry 'The Tool' Shepard"
-date: "October 27, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+title: The Only Chrome Extensions Recruiters Actually Need in 2025
+excerpt: >-
+  Your browser has 47 extensions and you use 3 of them. Here are the Chrome
+  extensions that actually make recruiting easier, not just clutter.
+author: Terry 'The Tool' Shepard
+date: 'October 27, 2025'
+readTime: 4 min read
+imageUrl: /images/tools/recruiting-chrome-extensions-2025.jpg
 featured: false
 ---
 

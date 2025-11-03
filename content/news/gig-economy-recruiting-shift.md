@@ -1,10 +1,12 @@
 ---
-title: "The Gig Economy Just Ate Traditional Recruiting's Lunch—Here's What That Means"
-excerpt: "Full-time hiring is losing ground to contract talent, and the shift is reshaping how companies build teams. This is not a drill."
-author: "Judah 'News Boy' Jacobs"
-date: "October 27, 2025"
-readTime: "5 min read"
-imageUrl: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+title: The Gig Economy Just Ate Traditional Recruiting's Lunch—Here's What That Means
+excerpt: >-
+  Full-time hiring is losing ground to contract talent, and the shift is
+  reshaping how companies build teams. This is not a drill.
+author: Judah 'News Boy' Jacobs
+date: 'October 27, 2025'
+readTime: 5 min read
+imageUrl: /images/news/gig-economy-recruiting-shift.jpg
 featured: false
 ---
 

@@ -1,10 +1,13 @@
 ---
-title: "Original Content vs. Resharing: What Actually Gets You Noticed on LinkedIn"
-excerpt: Sharing others' articles feels productive, but it doesn't build your brand. Original content does. Here's the data on what drives profile views, recruiter interest, and opportunities.
+title: 'Original Content vs. Resharing: What Actually Gets You Noticed on LinkedIn'
+excerpt: >-
+  Sharing others' articles feels productive, but it doesn't build your brand.
+  Original content does. Here's the data on what drives profile views, recruiter
+  interest, and opportunities.
 author: Judy 'Just The Tip' Terry
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80
+imageUrl: /images/just-the-tip/original-content-vs-resharing.jpg
 featured: false
 ---
 

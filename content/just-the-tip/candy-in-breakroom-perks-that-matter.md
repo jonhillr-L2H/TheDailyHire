@@ -1,7 +1,8 @@
 ---
 title: 'Just the Tip: Candy in the Breakroom? Say No More... (About Fake Perks)'
 excerpt: >-
-  If your biggest recruiting sell is free snacks, we need to talk about what candidates actually care about in 2025. Spoiler: It's not the ping pong table.
+  If your biggest recruiting sell is free snacks, we need to talk about what
+  candidates actually care about in 2025. Spoiler: It's not the ping pong table.
 author: Judy 'Just The Tip' Terry
 date: 'October 31, 2025'
 readTime: 4 min read

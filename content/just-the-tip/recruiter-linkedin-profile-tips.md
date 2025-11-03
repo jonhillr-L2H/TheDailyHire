@@ -1,10 +1,12 @@
 ---
-title: "Your LinkedIn Profile Is Costing You Candidates (Fix These 5 Things)"
-excerpt: "Candidates check your profile before responding to your InMails. If it looks like garbage, they're ignoring you. Here's what to fix."
-author: "Judy 'Just The Tip' Terry"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=800&q=80"
+title: Your LinkedIn Profile Is Costing You Candidates (Fix These 5 Things)
+excerpt: >-
+  Candidates check your profile before responding to your InMails. If it looks
+  like garbage, they're ignoring you. Here's what to fix.
+author: Judy 'Just The Tip' Terry
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/just-the-tip/recruiter-linkedin-profile-tips.jpg
 featured: false
 ---
 

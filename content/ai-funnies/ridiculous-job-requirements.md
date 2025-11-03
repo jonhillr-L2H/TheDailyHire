@@ -1,8 +1,13 @@
 ---
-title: "Job Requirements That Make Absolutely No Sense (But Companies Post Them Anyway)"
-excerpt: We found job postings requiring 10 years of experience in 5-year-old technology, entry-level positions demanding senior skills, and other hiring nonsense that shouldn't exist.
+title: >-
+  Job Requirements That Make Absolutely No Sense (But Companies Post Them
+  Anyway)
+excerpt: >-
+  We found job postings requiring 10 years of experience in 5-year-old
+  technology, entry-level positions demanding senior skills, and other hiring
+  nonsense that shouldn't exist.
 author: Stan 'The Funny Man' Fisher
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/ridiculous-job-requirements.jpg
 featured: false

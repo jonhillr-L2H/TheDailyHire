@@ -1,10 +1,12 @@
 ---
-title: "Boolean Search in 2025: Still Useful or Totally Outdated?"
-excerpt: "AI sourcing tools promise to make Boolean search obsolete. But the recruiters finding the best candidates are still using these techniques. Here's why."
-author: "Terry 'The Tool' Shepard"
-date: "October 27, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800&q=80"
+title: 'Boolean Search in 2025: Still Useful or Totally Outdated?'
+excerpt: >-
+  AI sourcing tools promise to make Boolean search obsolete. But the recruiters
+  finding the best candidates are still using these techniques. Here's why.
+author: Terry 'The Tool' Shepard
+date: 'October 27, 2025'
+readTime: 4 min read
+imageUrl: /images/tools/boolean-search-techniques-2025.jpg
 featured: false
 ---
 

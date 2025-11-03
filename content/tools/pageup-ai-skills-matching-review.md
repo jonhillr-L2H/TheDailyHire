@@ -1,10 +1,15 @@
 ---
-title: "PageUp's AI Skills Matching with Paige: Revolutionary or Just Rebranded Resume Parsing?"
-excerpt: PageUp is marketing their new AI assistant "Paige" as next-gen skills matching technology. I tested it for a month to see if it actually delivers or if this is just another overhyped AI rebrand.
+title: >-
+  PageUp's AI Skills Matching with Paige: Revolutionary or Just Rebranded Resume
+  Parsing?
+excerpt: >-
+  PageUp is marketing their new AI assistant "Paige" as next-gen skills matching
+  technology. I tested it for a month to see if it actually delivers or if this
+  is just another overhyped AI rebrand.
 author: Terry 'The Tool' Shepard
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80
+imageUrl: /images/tools/pageup-ai-skills-matching-review.jpg
 featured: false
 ---
 

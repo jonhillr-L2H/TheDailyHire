@@ -1,8 +1,12 @@
 ---
-title: "70% of Companies Using AI in Recruiting by End of 2025—And Your Competition Already Started"
-excerpt: Half of companies already use AI for hiring. If you're not one of them, you're falling behind faster than you think.
+title: >-
+  70% of Companies Using AI in Recruiting by End of 2025—And Your Competition
+  Already Started
+excerpt: >-
+  Half of companies already use AI for hiring. If you're not one of them, you're
+  falling behind faster than you think.
 author: Judah 'News Boy' Jacobs
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
 imageUrl: /images/news/ai-recruiting-hits-70-percent-adoption.jpg
 featured: false

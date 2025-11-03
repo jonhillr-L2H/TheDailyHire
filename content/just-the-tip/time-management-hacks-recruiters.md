@@ -1,8 +1,10 @@
 ---
-title: "Time Management Hacks for Recruiters Who Are Drowning"
-excerpt: You're managing 15 open roles, 200 candidates, and 47 unread Slack messages. Here's how to stop drowning and start actually recruiting.
+title: Time Management Hacks for Recruiters Who Are Drowning
+excerpt: >-
+  You're managing 15 open roles, 200 candidates, and 47 unread Slack messages.
+  Here's how to stop drowning and start actually recruiting.
 author: Judy 'Just The Tip' Terry
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/just-the-tip/time-management-hacks-recruiters.jpg
 featured: false

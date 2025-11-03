@@ -1,10 +1,13 @@
 ---
-title: "Daily Posting on LinkedIn: Job Seeker Strategy That Actually Works"
-excerpt: Posting on LinkedIn daily increases visibility, builds credibility, and attracts recruiters. Here's what to post, how often, and the content types that get results.
+title: 'Daily Posting on LinkedIn: Job Seeker Strategy That Actually Works'
+excerpt: >-
+  Posting on LinkedIn daily increases visibility, builds credibility, and
+  attracts recruiters. Here's what to post, how often, and the content types
+  that get results.
 author: Judy 'Just The Tip' Terry
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80
+imageUrl: /images/just-the-tip/daily-posting-strategy-job-seekers.jpg
 featured: false
 ---
 

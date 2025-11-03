@@ -1,10 +1,15 @@
 ---
-title: "HireBuddy QuickScreen Claims to Cut 95% of Screening Time—Does It Actually Work?"
-excerpt: HireBuddy QuickScreen promises to eliminate 95% of resume screening time and cost. I put it through real-world testing to see if it lives up to the hype or if this is just another AI screening tool that overpromises.
+title: >-
+  HireBuddy QuickScreen Claims to Cut 95% of Screening Time—Does It Actually
+  Work?
+excerpt: >-
+  HireBuddy QuickScreen promises to eliminate 95% of resume screening time and
+  cost. I put it through real-world testing to see if it lives up to the hype or
+  if this is just another AI screening tool that overpromises.
 author: Terry 'The Tool' Shepard
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80
+imageUrl: /images/tools/hirebuddy-quickscreen-95-percent-savings.jpg
 featured: false
 ---
 

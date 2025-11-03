@@ -1,13 +1,14 @@
 ---
-title: "Nova AI Recruiter from Peoplebox: The Anti-LinkedIn Hiring Assistant?"
+title: 'Nova AI Recruiter from Peoplebox: The Anti-LinkedIn Hiring Assistant?'
 excerpt: >-
   Peoplebox just launched Nova, an AI recruiting agent that claims to do
-  everything LinkedIn's Hiring Assistant does—but cheaper and without locking you
-  into LinkedIn's ecosystem. Is it legit or just riding the AI agent hype wave?
+  everything LinkedIn's Hiring Assistant does—but cheaper and without locking
+  you into LinkedIn's ecosystem. Is it legit or just riding the AI agent hype
+  wave?
 author: Terry 'The Tool' Shepard
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80
+imageUrl: /images/tools/nova-ai-recruiter-peoplebox-review.jpg
 featured: false
 ---
 

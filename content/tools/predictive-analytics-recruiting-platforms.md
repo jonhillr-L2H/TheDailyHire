@@ -1,13 +1,13 @@
 ---
-title: "Predictive Analytics for Recruiting: Which Platforms Actually Work?"
+title: 'Predictive Analytics for Recruiting: Which Platforms Actually Work?'
 excerpt: >-
-  Everyone's talking about predicting quality of hire, retention, and performance
-  before making offers. But do these platforms deliver, or is it just expensive
-  snake oil? Let's cut through the hype.
+  Everyone's talking about predicting quality of hire, retention, and
+  performance before making offers. But do these platforms deliver, or is it
+  just expensive snake oil? Let's cut through the hype.
 author: Terry 'The Tool' Shepard
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80
+imageUrl: /images/tools/predictive-analytics-recruiting-platforms.jpg
 featured: false
 ---
 

@@ -1,10 +1,14 @@
 ---
-title: "College Hiring for Class of 2025 Jumping 7.3%—Here's What That Means for Campus Recruiting"
-excerpt: "Companies are hiring more new grads than last year, and if your campus recruiting strategy is stuck in 2023, you're already behind."
-author: "Judah 'News Boy' Jacobs"
-date: "October 27, 2025"
-readTime: "4 min read"
-imageUrl: "/images/news/college-hiring-up-73-percent-2025.jpg"
+title: >-
+  College Hiring for Class of 2025 Jumping 7.3%—Here's What That Means for
+  Campus Recruiting
+excerpt: >-
+  Companies are hiring more new grads than last year, and if your campus
+  recruiting strategy is stuck in 2023, you're already behind.
+author: Judah 'News Boy' Jacobs
+date: 'October 27, 2025'
+readTime: 4 min read
+imageUrl: /images/news/college-hiring-up-73-percent-2025.jpg
 featured: false
 ---
 

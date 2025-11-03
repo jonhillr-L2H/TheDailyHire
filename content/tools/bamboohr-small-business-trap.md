@@ -1,8 +1,11 @@
 ---
-title: "BambooHR for Recruiting: Great HRIS, Mediocre ATS—Here's Why"
-excerpt: BambooHR is beloved for HR management. But its recruiting features? That's where things get awkward. Let's talk about what works and what definitely doesn't.
+title: 'BambooHR for Recruiting: Great HRIS, Mediocre ATS—Here''s Why'
+excerpt: >-
+  BambooHR is beloved for HR management. But its recruiting features? That's
+  where things get awkward. Let's talk about what works and what definitely
+  doesn't.
 author: Terry 'Tech Guru' Thompson
-date: October 31, 2025
+date: 'October 31, 2025'
 readTime: 6 min read
 imageUrl: /images/tools/bamboohr-small-business-trap.jpg
 featured: false

@@ -1,10 +1,15 @@
 ---
-title: "65% of Job Postings Need Major Revisions After Going Live (Because Nobody Proofread)"
-excerpt: Research shows 65% of job postings require significant revisions after posting because companies hit 'publish' before anyone with a brain actually read them. The results are comedy gold.
+title: >-
+  65% of Job Postings Need Major Revisions After Going Live (Because Nobody
+  Proofread)
+excerpt: >-
+  Research shows 65% of job postings require significant revisions after posting
+  because companies hit 'publish' before anyone with a brain actually read them.
+  The results are comedy gold.
 author: Stan 'The Funny Man' Fisher
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80
+imageUrl: /images/ai-funnies/65-percent-job-postings-need-revision.jpg
 featured: false
 ---
 

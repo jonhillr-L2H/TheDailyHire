@@ -1,10 +1,14 @@
 ---
-title: "LinkedIn Influencer Posts 'Vulnerability' About Being Rejected for Jobs They Never Applied For"
-excerpt: "Another day, another LinkedIn thought leader sharing deeply personal stories that definitely, totally, 100% happened exactly as described."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?w=800&q=80"
+title: >-
+  LinkedIn Influencer Posts 'Vulnerability' About Being Rejected for Jobs They
+  Never Applied For
+excerpt: >-
+  Another day, another LinkedIn thought leader sharing deeply personal stories
+  that definitely, totally, 100% happened exactly as described.
+author: Stan 'The Funny Man' Fisher
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/linkedin-influencer-cringe.jpg
 featured: false
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: "Employers Ghost Candidates, Shocked When Candidates Ghost Back"
-excerpt: "Companies spent years perfecting the art of ghosting candidates. Now candidates are returning the favor, and recruiters are big mad about it."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 31, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1509909756405-be0199881695?w=800&q=80"
+title: 'Employers Ghost Candidates, Shocked When Candidates Ghost Back'
+excerpt: >-
+  Companies spent years perfecting the art of ghosting candidates. Now
+  candidates are returning the favor, and recruiters are big mad about it.
+author: Stan 'The Funny Man' Fisher
+date: 'October 31, 2025'
+readTime: 4 min read
+imageUrl: /images/ai-funnies/employer-ghosting-revenge.jpg
 featured: false
 ---
 

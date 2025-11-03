@@ -1,10 +1,13 @@
 ---
-title: "How to Actually Implement Skills-Based Hiring (Without It Becoming a Mess)"
-excerpt: 64% of companies use skills-based hiring, but most implement it wrong and create chaos. Here's the step-by-step playbook for doing it right the first time.
+title: How to Actually Implement Skills-Based Hiring (Without It Becoming a Mess)
+excerpt: >-
+  64% of companies use skills-based hiring, but most implement it wrong and
+  create chaos. Here's the step-by-step playbook for doing it right the first
+  time.
 author: Judy 'Just The Tip' Terry
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80
+imageUrl: /images/just-the-tip/skills-based-hiring-implementation-guide.jpg
 featured: false
 ---
 

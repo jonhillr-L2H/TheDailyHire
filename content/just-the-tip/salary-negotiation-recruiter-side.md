@@ -1,10 +1,12 @@
 ---
-title: "How To Handle Salary Negotiations Without Losing Candidates or Overpaying"
-excerpt: Salary negotiation is where good offers die. Here's how to negotiate effectively without playing games that cost you top candidates.
+title: How To Handle Salary Negotiations Without Losing Candidates or Overpaying
+excerpt: >-
+  Salary negotiation is where good offers die. Here's how to negotiate
+  effectively without playing games that cost you top candidates.
 author: Judy 'Just The Tip' Terry
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
-imageUrl: /images/tips/salary-negotiation-recruiter-side.jpg
+imageUrl: /images/just-the-tip/salary-negotiation-recruiter-side.jpg
 featured: false
 ---
 

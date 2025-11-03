@@ -1,8 +1,11 @@
 ---
-title: "Eightfold vs. Beamery vs. Loxo: The Talent Intelligence Platform Showdown"
-excerpt: Everyone's pivoting to talent intelligence, but which platform actually delivers? I tested the big three to find out which one is worth the enterprise price tag.
+title: 'Eightfold vs. Beamery vs. Loxo: The Talent Intelligence Platform Showdown'
+excerpt: >-
+  Everyone's pivoting to talent intelligence, but which platform actually
+  delivers? I tested the big three to find out which one is worth the enterprise
+  price tag.
 author: Terry 'The Tool' Shepard
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 7 min read
 imageUrl: /images/tools/talent-intelligence-platforms-comparison.jpg
 featured: false

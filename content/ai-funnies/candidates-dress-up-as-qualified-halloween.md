@@ -1,10 +1,13 @@
 ---
-title: "Candidates Dress Up as 'Qualified' for Halloween—Scariest Costume Yet"
-excerpt: "This Halloween, candidates are wearing their most terrifying disguise: pretending they meet basic job requirements. Recruiters everywhere are screaming."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 31, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=800&q=80"
+title: Candidates Dress Up as 'Qualified' for Halloween—Scariest Costume Yet
+excerpt: >-
+  This Halloween, candidates are wearing their most terrifying disguise:
+  pretending they meet basic job requirements. Recruiters everywhere are
+  screaming.
+author: Stan 'The Funny Man' Fisher
+date: 'October 31, 2025'
+readTime: 4 min read
+imageUrl: /images/ai-funnies/candidates-dress-up-as-qualified-halloween.jpg
 featured: true
 ---
 

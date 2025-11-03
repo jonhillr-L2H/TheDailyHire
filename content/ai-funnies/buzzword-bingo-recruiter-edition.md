@@ -1,10 +1,12 @@
 ---
-title: "Recruiter Buzzword Bingo: A Drinking Game (Please Don't Actually Drink)"
-excerpt: "Rock star, ninja, guru, disruptor, synergy, passionate—if we made a drinking game out of recruiter buzzwords, we'd all need liver transplants."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 30, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=80"
+title: 'Recruiter Buzzword Bingo: A Drinking Game (Please Don''t Actually Drink)'
+excerpt: >-
+  Rock star, ninja, guru, disruptor, synergy, passionate—if we made a drinking
+  game out of recruiter buzzwords, we'd all need liver transplants.
+author: Stan 'The Funny Man' Fisher
+date: 'October 30, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/buzzword-bingo-recruiter-edition.jpg
 featured: false
 ---
 

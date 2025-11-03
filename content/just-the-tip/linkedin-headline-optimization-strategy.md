@@ -1,10 +1,13 @@
 ---
-title: "LinkedIn Headline Optimization: Why You Should Change It Every 2 Weeks"
-excerpt: Your LinkedIn headline isn't set-it-and-forget-it. Top performers swap headlines every 2 weeks to test what drives profile views and opportunities. Here's the strategy.
+title: 'LinkedIn Headline Optimization: Why You Should Change It Every 2 Weeks'
+excerpt: >-
+  Your LinkedIn headline isn't set-it-and-forget-it. Top performers swap
+  headlines every 2 weeks to test what drives profile views and opportunities.
+  Here's the strategy.
 author: Judy 'Just The Tip' Terry
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=800&q=80
+imageUrl: /images/just-the-tip/linkedin-headline-optimization-strategy.jpg
 featured: false
 ---
 

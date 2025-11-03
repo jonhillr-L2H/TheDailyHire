@@ -1,8 +1,10 @@
 ---
-title: "Recruiting Analytics Dashboards: Pretty Charts That Tell You Nothing"
-excerpt: Your ATS has recruiting dashboards. So does your HRIS. And your sourcing tool. But which numbers actually matter? I tested 7 analytics platforms to find out.
+title: 'Recruiting Analytics Dashboards: Pretty Charts That Tell You Nothing'
+excerpt: >-
+  Your ATS has recruiting dashboards. So does your HRIS. And your sourcing tool.
+  But which numbers actually matter? I tested 7 analytics platforms to find out.
 author: Terry 'The Tool' Shepard
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 6 min read
 imageUrl: /images/tools/recruiting-analytics-dashboards-review.jpg
 featured: false

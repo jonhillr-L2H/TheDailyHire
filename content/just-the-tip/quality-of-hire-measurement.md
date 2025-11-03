@@ -1,7 +1,8 @@
 ---
 title: 'Just the Tip: Stop Hiring Blind—Start Measuring Quality of Hire'
 excerpt: >-
-  89% of recruiters agree measuring quality of hire is essential. Only 25% know how to do it. Let me fix that for you with a framework that actually works.
+  89% of recruiters agree measuring quality of hire is essential. Only 25% know
+  how to do it. Let me fix that for you with a framework that actually works.
 author: Judy 'Just The Tip' Terry
 date: 'October 31, 2025'
 readTime: 5 min read

@@ -1,10 +1,13 @@
 ---
-title: "Local ATS Achieves Sentience, Immediately Rejects All Candidates Including CEO"
-excerpt: "What started as a minor glitch became an existential crisis when the company's applicant tracking system decided nobody was qualified for anything. Including people who already work there."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1535378620166-273708d44e4c?w=800&q=80"
+title: 'Local ATS Achieves Sentience, Immediately Rejects All Candidates Including CEO'
+excerpt: >-
+  What started as a minor glitch became an existential crisis when the company's
+  applicant tracking system decided nobody was qualified for anything. Including
+  people who already work there.
+author: Stan 'The Funny Man' Fisher
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/ats-black-hole-mystery.jpg
 featured: false
 ---
 

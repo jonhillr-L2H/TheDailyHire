@@ -1,8 +1,13 @@
 ---
-title: "AI Video Interview Tool Gave Our Best Candidate a 3/10 Because They Didn't Smile Enough"
-excerpt: Nothing says 'unbiased hiring' like an AI that ranks candidates based on how much they smile at a camera while answering technical questions about database optimization.
+title: >-
+  AI Video Interview Tool Gave Our Best Candidate a 3/10 Because They Didn't
+  Smile Enough
+excerpt: >-
+  Nothing says 'unbiased hiring' like an AI that ranks candidates based on how
+  much they smile at a camera while answering technical questions about database
+  optimization.
 author: Stan 'The Funny Man' Fisher
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/ai-video-interview-scoring-nonsense.jpg
 featured: false

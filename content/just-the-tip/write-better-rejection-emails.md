@@ -1,10 +1,13 @@
 ---
-title: "Your Rejection Emails Are Why Candidates Ghost You Later"
-excerpt: That generic rejection email you send? It's burning bridges you'll want to cross later. Here's how to reject candidates without destroying your employer brand.
+title: Your Rejection Emails Are Why Candidates Ghost You Later
+excerpt: >-
+  That generic rejection email you send? It's burning bridges you'll want to
+  cross later. Here's how to reject candidates without destroying your employer
+  brand.
 author: Judy 'Just The Tip' Terry
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
-imageUrl: /images/tips/write-better-rejection-emails.jpg
+imageUrl: /images/just-the-tip/write-better-rejection-emails.jpg
 featured: false
 ---
 

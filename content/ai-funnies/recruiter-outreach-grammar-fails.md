@@ -1,10 +1,13 @@
 ---
-title: "Recruiter Outreach Messages with Grammar Mistakes: A Hall of Shame"
-excerpt: "You're asking for someone's career future and you can't spell 'responsibilities' or use proper punctuation? These are real InMails that made us cry."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 30, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80"
+title: 'Recruiter Outreach Messages with Grammar Mistakes: A Hall of Shame'
+excerpt: >-
+  You're asking for someone's career future and you can't spell
+  'responsibilities' or use proper punctuation? These are real InMails that made
+  us cry.
+author: Stan 'The Funny Man' Fisher
+date: 'October 30, 2025'
+readTime: 4 min read
+imageUrl: /images/ai-funnies/recruiter-outreach-grammar-fails.jpg
 featured: false
 ---
 

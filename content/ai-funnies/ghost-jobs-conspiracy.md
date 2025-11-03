@@ -1,8 +1,10 @@
 ---
-title: "Ghost Jobs Are Real and They're Wasting Everyone's Time (Including Yours)"
-excerpt: We investigated why you're applying to jobs that have been filled for months. The answer is somehow worse than you think.
+title: Ghost Jobs Are Real and They're Wasting Everyone's Time (Including Yours)
+excerpt: >-
+  We investigated why you're applying to jobs that have been filled for months.
+  The answer is somehow worse than you think.
 author: Stan 'The Funny Man' Fisher
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/ghost-jobs-conspiracy.jpg
 featured: false

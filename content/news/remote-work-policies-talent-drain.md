@@ -1,8 +1,10 @@
 ---
-title: "Your RTO Policy Just Cost You Your Best Talent—The Data Proves It"
-excerpt: Companies forcing full-time office returns are hemorrhaging top performers. Meanwhile, hybrid-first competitors are scooping up the talent you're losing.
+title: Your RTO Policy Just Cost You Your Best Talent—The Data Proves It
+excerpt: >-
+  Companies forcing full-time office returns are hemorrhaging top performers.
+  Meanwhile, hybrid-first competitors are scooping up the talent you're losing.
 author: Judah 'News Boy' Jacobs
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
 imageUrl: /images/news/remote-work-policies-talent-drain.jpg
 featured: false

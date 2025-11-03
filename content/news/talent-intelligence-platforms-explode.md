@@ -1,8 +1,13 @@
 ---
-title: "Talent Intelligence Platforms Just Ate Your ATS (And Your HRIS, and Your LMS...)"
-excerpt: Forget standalone recruiting tools—2025 is the year talent intelligence platforms unified your entire talent stack. Here's why every HR tech vendor is pivoting to "intelligence" and what it actually means.
+title: >-
+  Talent Intelligence Platforms Just Ate Your ATS (And Your HRIS, and Your
+  LMS...)
+excerpt: >-
+  Forget standalone recruiting tools—2025 is the year talent intelligence
+  platforms unified your entire talent stack. Here's why every HR tech vendor is
+  pivoting to "intelligence" and what it actually means.
 author: Judah 'News Boy' Jacobs
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 5 min read
 imageUrl: /images/news/talent-intelligence-platforms-explode.jpg
 featured: false

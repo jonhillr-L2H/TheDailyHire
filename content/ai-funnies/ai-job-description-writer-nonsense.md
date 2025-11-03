@@ -1,10 +1,12 @@
 ---
-title: "AI Job Description Generator Asks for 10 Years Experience in Being Entry-Level"
-excerpt: "Companies are using AI to write job descriptions, and the results are somehow worse than when humans did it. Congratulations, we automated incompetence."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 31, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80"
+title: AI Job Description Generator Asks for 10 Years Experience in Being Entry-Level
+excerpt: >-
+  Companies are using AI to write job descriptions, and the results are somehow
+  worse than when humans did it. Congratulations, we automated incompetence.
+author: Stan 'The Funny Man' Fisher
+date: 'October 31, 2025'
+readTime: 4 min read
+imageUrl: /images/ai-funnies/ai-job-description-writer-nonsense.jpg
 featured: false
 ---
 

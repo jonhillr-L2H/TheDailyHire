@@ -1,8 +1,12 @@
 ---
-title: "Our AI Chatbot Rejected the Perfect Candidate Because They Used 'Software Developer' Instead of 'Software Engineer'"
-excerpt: Spent $15K on an AI recruiting chatbot. It immediately rejected our top candidate over a job title technicality. This is fine. Everything is fine.
+title: >-
+  Our AI Chatbot Rejected the Perfect Candidate Because They Used 'Software
+  Developer' Instead of 'Software Engineer'
+excerpt: >-
+  Spent $15K on an AI recruiting chatbot. It immediately rejected our top
+  candidate over a job title technicality. This is fine. Everything is fine.
 author: Stan 'The Funny Man' Fisher
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/chatbot-rejected-perfect-candidate.jpg
 featured: false

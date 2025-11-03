@@ -1,8 +1,11 @@
 ---
-title: "Mobile Recruiting Apps: Which Ones Actually Let You Recruit From Your Phone"
-excerpt: Candidates apply from their phones. Your hiring managers are never at desks. So why is your recruiting software still built for desktop? I tested 8 mobile recruiting apps to find the ones that actually work.
+title: 'Mobile Recruiting Apps: Which Ones Actually Let You Recruit From Your Phone'
+excerpt: >-
+  Candidates apply from their phones. Your hiring managers are never at desks.
+  So why is your recruiting software still built for desktop? I tested 8 mobile
+  recruiting apps to find the ones that actually work.
 author: Terry 'The Tool' Shepard
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 6 min read
 imageUrl: /images/tools/mobile-recruiting-apps-review.jpg
 featured: false

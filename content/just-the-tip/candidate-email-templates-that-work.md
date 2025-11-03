@@ -1,8 +1,11 @@
 ---
-title: "Email Templates That Get Responses (Not Ignored)"
-excerpt: Generic recruiter emails get 10% response rates. Personalized emails get 40-50%. Here are templates you can customize to actually get candidates to reply.
+title: Email Templates That Get Responses (Not Ignored)
+excerpt: >-
+  Generic recruiter emails get 10% response rates. Personalized emails get
+  40-50%. Here are templates you can customize to actually get candidates to
+  reply.
 author: Judy 'Just The Tip' Terry
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/just-the-tip/candidate-email-templates-that-work.jpg
 featured: false

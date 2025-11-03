@@ -1,10 +1,12 @@
 ---
-title: "The Only 5 Phone Screen Questions You Actually Need"
-excerpt: "Stop wasting 45 minutes on generic questions. These five get you everything you need to know in 15 minutes flat."
-author: "Judy 'Just The Tip' Terry"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?w=800&q=80"
+title: The Only 5 Phone Screen Questions You Actually Need
+excerpt: >-
+  Stop wasting 45 minutes on generic questions. These five get you everything
+  you need to know in 15 minutes flat.
+author: Judy 'Just The Tip' Terry
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/just-the-tip/phone-screen-questions-that-work.jpg
 featured: false
 ---
 

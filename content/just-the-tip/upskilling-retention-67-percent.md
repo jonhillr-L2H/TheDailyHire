@@ -1,10 +1,13 @@
 ---
-title: "67% of Employees Stay for Upskilling (Even If They Hate Their Job)"
-excerpt: Learning and development opportunities are now the second-most important retention factor after compensation. Here's how to build upskilling programs that actually keep talent.
+title: 67% of Employees Stay for Upskilling (Even If They Hate Their Job)
+excerpt: >-
+  Learning and development opportunities are now the second-most important
+  retention factor after compensation. Here's how to build upskilling programs
+  that actually keep talent.
 author: Judy 'Just The Tip' Terry
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80
+imageUrl: /images/just-the-tip/upskilling-retention-67-percent.jpg
 featured: false
 ---
 

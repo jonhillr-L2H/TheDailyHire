@@ -1,7 +1,8 @@
 ---
 title: 'Just the Tip: Your Employee Referral Program is Broken—Here''s How to Fix It'
 excerpt: >-
-  You're offering $500 bonuses for referrals and wondering why nobody's participating. Let me tell you what's wrong—and what actually works.
+  You're offering $500 bonuses for referrals and wondering why nobody's
+  participating. Let me tell you what's wrong—and what actually works.
 author: Judy 'Just The Tip' Terry
 date: 'October 31, 2025'
 readTime: 4 min read

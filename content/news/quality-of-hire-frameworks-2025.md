@@ -1,10 +1,13 @@
 ---
-title: "Companies Finally Care About Quality of Hire—Here's Why It Took So Long"
-excerpt: After years of obsessing over time-to-fill and cost-per-hire, companies are waking up to the metric that actually matters. Quality of hire frameworks are exploding in 2025.
+title: Companies Finally Care About Quality of Hire—Here's Why It Took So Long
+excerpt: >-
+  After years of obsessing over time-to-fill and cost-per-hire, companies are
+  waking up to the metric that actually matters. Quality of hire frameworks are
+  exploding in 2025.
 author: Judah 'News Boy' Jacobs
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80
+imageUrl: /images/news/quality-of-hire-frameworks-2025.jpg
 featured: false
 ---
 

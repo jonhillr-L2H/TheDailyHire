@@ -1,13 +1,13 @@
 ---
-title: "AR/VR Onboarding Platforms: Future of Remote Hiring or Expensive Gimmick?"
+title: 'AR/VR Onboarding Platforms: Future of Remote Hiring or Expensive Gimmick?'
 excerpt: >-
   Meta, Talespin, and others are betting big on virtual reality onboarding for
   remote hires. But is strapping a headset on new employees actually better than
   Zoom calls, or is this just tech hype?
 author: Terry 'The Tool' Shepard
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1617802690658-1173a812650d?w=800&q=80
+imageUrl: /images/tools/ar-vr-virtual-onboarding-platforms.jpg
 featured: false
 ---
 

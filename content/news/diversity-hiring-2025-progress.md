@@ -1,10 +1,14 @@
 ---
-title: "Diversity Hiring in 2025: We're Finally Seeing Real Progress (And The Data Proves It)"
-excerpt: "After years of empty promises, companies are actually backing up their DEI commitments with results. The numbers are looking pretty fire, ngl."
-author: "Judah 'News Boy' Jacobs"
-date: "October 27, 2025"
-readTime: "4 min read"
-imageUrl: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80"
+title: >-
+  Diversity Hiring in 2025: We're Finally Seeing Real Progress (And The Data
+  Proves It)
+excerpt: >-
+  After years of empty promises, companies are actually backing up their DEI
+  commitments with results. The numbers are looking pretty fire, ngl.
+author: Judah 'News Boy' Jacobs
+date: 'October 27, 2025'
+readTime: 4 min read
+imageUrl: /images/news/diversity-hiring-2025-progress.jpg
 featured: false
 ---
 

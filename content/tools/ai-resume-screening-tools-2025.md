@@ -1,10 +1,12 @@
 ---
-title: "AI Resume Screening Tools in 2025: Which Ones Don't Suck?"
-excerpt: "Everyone's selling AI screening, but most of it is garbage. Here's what actually works and what's just expensive snake oil."
-author: "Terry 'The Tool' Shepard"
-date: "October 27, 2025"
-readTime: "5 min read"
-imageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80"
+title: 'AI Resume Screening Tools in 2025: Which Ones Don''t Suck?'
+excerpt: >-
+  Everyone's selling AI screening, but most of it is garbage. Here's what
+  actually works and what's just expensive snake oil.
+author: Terry 'The Tool' Shepard
+date: 'October 27, 2025'
+readTime: 5 min read
+imageUrl: /images/tools/ai-resume-screening-tools-2025.jpg
 featured: false
 ---
 

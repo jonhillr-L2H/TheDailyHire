@@ -1,8 +1,11 @@
 ---
-title: "5 Recruiting Nightmares That Became Reality in 2025—Happy Halloween"
-excerpt: These aren't horror stories. They're Tuesday. Welcome to the scariest recruiting stats of 2025, where your worst fears about hiring have already come true.
+title: 5 Recruiting Nightmares That Became Reality in 2025—Happy Halloween
+excerpt: >-
+  These aren't horror stories. They're Tuesday. Welcome to the scariest
+  recruiting stats of 2025, where your worst fears about hiring have already
+  come true.
 author: Judah 'News Boy' Jacobs
-date: October 31, 2025
+date: 'October 31, 2025'
 readTime: 5 min read
 imageUrl: /images/news/recruiting-nightmares-halloween-2025.jpg
 featured: true

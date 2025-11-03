@@ -1,10 +1,14 @@
 ---
-title: "AI Interview Scheduling Tool Books Candidate at 3 AM, Company Blames 'Time Zone Optimization'"
-excerpt: "An automated scheduling system decided the perfect interview time was the middle of the night. The candidate showed up. The recruiter did not."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&q=80"
+title: >-
+  AI Interview Scheduling Tool Books Candidate at 3 AM, Company Blames 'Time
+  Zone Optimization'
+excerpt: >-
+  An automated scheduling system decided the perfect interview time was the
+  middle of the night. The candidate showed up. The recruiter did not.
+author: Stan 'The Funny Man' Fisher
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/ai-interview-scheduling-chaos.jpg
 featured: false
 ---
 

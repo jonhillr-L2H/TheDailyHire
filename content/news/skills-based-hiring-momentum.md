@@ -1,8 +1,11 @@
 ---
-title: "The Death of the Bachelor's Degree Requirement (Finally)"
-excerpt: Skills-based hiring isn't just a trend anymore—it's becoming the standard. Companies ditching degree requirements are finding better talent faster. Here's why you're late to the party.
+title: The Death of the Bachelor's Degree Requirement (Finally)
+excerpt: >-
+  Skills-based hiring isn't just a trend anymore—it's becoming the standard.
+  Companies ditching degree requirements are finding better talent faster.
+  Here's why you're late to the party.
 author: Judah 'News Boy' Jacobs
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
 imageUrl: /images/news/skills-based-hiring-momentum.jpg
 featured: false

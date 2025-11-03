@@ -1,10 +1,12 @@
 ---
-title: "Your Interview Questions Aren't Revealing Anything—Here's How To Fix Them"
-excerpt: Asking 'where do you see yourself in 5 years' tells you nothing about whether someone can do the job. Here are interview questions that actually work.
+title: Your Interview Questions Aren't Revealing Anything—Here's How To Fix Them
+excerpt: >-
+  Asking 'where do you see yourself in 5 years' tells you nothing about whether
+  someone can do the job. Here are interview questions that actually work.
 author: Judy 'Just The Tip' Terry
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 5 min read
-imageUrl: /images/tips/improve-interview-questions.jpg
+imageUrl: /images/just-the-tip/improve-interview-questions.jpg
 featured: false
 ---
 

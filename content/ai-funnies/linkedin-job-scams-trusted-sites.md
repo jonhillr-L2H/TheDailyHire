@@ -1,10 +1,13 @@
 ---
-title: "LinkedIn Job Scams Are Now Coming From 'Verified' Company Pages (Cool, Cool)"
-excerpt: "Remember when LinkedIn was the 'professional' network where scams didn't happen? Yeah, about that. Fake jobs from verified companies are the new normal."
-author: "Stan 'The Funny Man' Fisher"
-date: "October 30, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80"
+title: 'LinkedIn Job Scams Are Now Coming From ''Verified'' Company Pages (Cool, Cool)'
+excerpt: >-
+  Remember when LinkedIn was the 'professional' network where scams didn't
+  happen? Yeah, about that. Fake jobs from verified companies are the new
+  normal.
+author: Stan 'The Funny Man' Fisher
+date: 'October 30, 2025'
+readTime: 3 min read
+imageUrl: /images/ai-funnies/linkedin-job-scams-trusted-sites.jpg
 featured: false
 ---
 

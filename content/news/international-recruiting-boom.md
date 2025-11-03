@@ -1,10 +1,12 @@
 ---
-title: "International Recruiting Is Booming—And It's Not Just Tech Companies Anymore"
-excerpt: "Remote work killed geographic boundaries, and now companies are hiring globally like never before. The talent war just went worldwide."
-author: "Judah 'News Boy' Jacobs"
-date: "October 27, 2025"
-readTime: "5 min read"
-imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80"
+title: International Recruiting Is Booming—And It's Not Just Tech Companies Anymore
+excerpt: >-
+  Remote work killed geographic boundaries, and now companies are hiring
+  globally like never before. The talent war just went worldwide.
+author: Judah 'News Boy' Jacobs
+date: 'October 27, 2025'
+readTime: 5 min read
+imageUrl: /images/news/international-recruiting-boom.jpg
 featured: false
 ---
 

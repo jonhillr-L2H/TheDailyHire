@@ -1,10 +1,12 @@
 ---
-title: "Video Interview Platforms: HireVue vs Zoom vs Everything Else"
-excerpt: "Everyone's doing video interviews now, but which platform doesn't make you want to throw your laptop out the window? Let's compare."
-author: "Terry 'The Tool' Shepard"
-date: "October 27, 2025"
-readTime: "5 min read"
-imageUrl: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&q=80"
+title: 'Video Interview Platforms: HireVue vs Zoom vs Everything Else'
+excerpt: >-
+  Everyone's doing video interviews now, but which platform doesn't make you
+  want to throw your laptop out the window? Let's compare.
+author: Terry 'The Tool' Shepard
+date: 'October 27, 2025'
+readTime: 5 min read
+imageUrl: /images/tools/video-interview-platforms-comparison.jpg
 featured: false
 ---
 

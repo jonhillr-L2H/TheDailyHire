@@ -1,10 +1,15 @@
 ---
-title: "66% of Candidates Won't Apply Without Salary Info (But Sure, Keep It 'Competitive')"
-excerpt: Two-thirds of job seekers refuse to apply for roles that don't list salary information. Companies continue to act shocked when their secretive postings get zero qualified applicants.
+title: >-
+  66% of Candidates Won't Apply Without Salary Info (But Sure, Keep It
+  'Competitive')
+excerpt: >-
+  Two-thirds of job seekers refuse to apply for roles that don't list salary
+  information. Companies continue to act shocked when their secretive postings
+  get zero qualified applicants.
 author: Stan 'The Funny Man' Fisher
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 4 min read
-imageUrl: https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80
+imageUrl: /images/ai-funnies/no-salary-66-percent-wont-apply.jpg
 featured: false
 ---
 

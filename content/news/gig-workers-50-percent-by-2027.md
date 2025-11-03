@@ -1,10 +1,13 @@
 ---
-title: "Gig Workers Will Be 50% of the Workforce by 2027—And Recruiting Isn't Ready"
-excerpt: Half of all workers will be freelance, contract, or gig by 2027. Most recruiting teams are still optimized for full-time hires. This is about to get messy.
+title: Gig Workers Will Be 50% of the Workforce by 2027—And Recruiting Isn't Ready
+excerpt: >-
+  Half of all workers will be freelance, contract, or gig by 2027. Most
+  recruiting teams are still optimized for full-time hires. This is about to get
+  messy.
 author: Judah 'News Boy' Jacobs
-date: October 30, 2025
+date: 'October 30, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&q=80
+imageUrl: /images/news/gig-workers-50-percent-by-2027.jpg
 featured: false
 ---
 

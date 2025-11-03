@@ -1,8 +1,11 @@
 ---
-title: "Your Employees Are Job Hunting Because You Won't Promote Them Internally"
-excerpt: Internal mobility isn't HR fluff—it's your retention strategy. Companies investing in career development are 33% more likely to be industry leaders. Guess what yours is?
+title: Your Employees Are Job Hunting Because You Won't Promote Them Internally
+excerpt: >-
+  Internal mobility isn't HR fluff—it's your retention strategy. Companies
+  investing in career development are 33% more likely to be industry leaders.
+  Guess what yours is?
 author: Judah 'News Boy' Jacobs
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 5 min read
 imageUrl: /images/news/internal-mobility-or-lose-talent.jpg
 featured: false

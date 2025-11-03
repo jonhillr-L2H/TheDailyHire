@@ -1,10 +1,12 @@
 ---
-title: "How to Actually Source Passive Candidates (Without Annoying Them)"
-excerpt: "Passive candidates aren't actively looking, which means your generic InMail template isn't going to work. Here's what does."
-author: "Judy 'Just The Tip' Terry"
-date: "October 27, 2025"
-readTime: "3 min read"
-imageUrl: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80"
+title: How to Actually Source Passive Candidates (Without Annoying Them)
+excerpt: >-
+  Passive candidates aren't actively looking, which means your generic InMail
+  template isn't going to work. Here's what does.
+author: Judy 'Just The Tip' Terry
+date: 'October 27, 2025'
+readTime: 3 min read
+imageUrl: /images/just-the-tip/sourcing-passive-candidates.jpg
 featured: false
 ---
 

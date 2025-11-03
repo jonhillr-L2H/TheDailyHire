@@ -1,10 +1,15 @@
 ---
-title: "88% of Candidates Won't Apply Without Strong Employer Brand (And Your Careers Page Sucks)"
-excerpt: Employer branding just became non-negotiable. 88% of job seekers say it influences their decision to apply—and most companies are failing spectacularly at it.
+title: >-
+  88% of Candidates Won't Apply Without Strong Employer Brand (And Your Careers
+  Page Sucks)
+excerpt: >-
+  Employer branding just became non-negotiable. 88% of job seekers say it
+  influences their decision to apply—and most companies are failing
+  spectacularly at it.
 author: Judah 'News Boy' Jacobs
-date: November 1, 2025
+date: 'November 1, 2025'
 readTime: 5 min read
-imageUrl: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80
+imageUrl: /images/news/employer-branding-88-percent-game-changer.jpg
 featured: false
 ---
 

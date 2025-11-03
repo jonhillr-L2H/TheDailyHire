@@ -1,8 +1,11 @@
 ---
-title: "Automated Rejection Emails: When AI Gets Way Too Honest"
-excerpt: Companies set up automated rejection emails and forgot to check what they actually say. The results are accidentally brutal, hilariously broken, or just plain weird.
+title: 'Automated Rejection Emails: When AI Gets Way Too Honest'
+excerpt: >-
+  Companies set up automated rejection emails and forgot to check what they
+  actually say. The results are accidentally brutal, hilariously broken, or just
+  plain weird.
 author: Stan 'The Funny Man' Fisher
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/automated-rejection-fails.jpg
 featured: false

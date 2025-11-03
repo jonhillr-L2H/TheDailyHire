@@ -1,8 +1,12 @@
 ---
-title: "I Let AI Write a Job Description and It Asked for a 'Rockstar Ninja' With 10 Years of Experience in a 5-Year-Old Technology"
-excerpt: Turns out AI job description tools are just as bad at writing realistic requirements as the humans they're replacing. Maybe worse.
+title: >-
+  I Let AI Write a Job Description and It Asked for a 'Rockstar Ninja' With 10
+  Years of Experience in a 5-Year-Old Technology
+excerpt: >-
+  Turns out AI job description tools are just as bad at writing realistic
+  requirements as the humans they're replacing. Maybe worse.
 author: Stan 'The Funny Man' Fisher
-date: October 28, 2025
+date: 'October 28, 2025'
 readTime: 4 min read
 imageUrl: /images/ai-funnies/ai-wrote-my-job-description.jpg
 featured: false

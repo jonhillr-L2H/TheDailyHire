@@ -1,10 +1,13 @@
 ---
-title: "LinkedIn Recruiter Lite vs. Full: Stop Overpaying for Features You Don't Use"
-excerpt: One costs $170/month, the other costs $800+/month. I tested both for 90 days to figure out who actually needs the expensive version and who's just burning budget.
+title: 'LinkedIn Recruiter Lite vs. Full: Stop Overpaying for Features You Don''t Use'
+excerpt: >-
+  One costs $170/month, the other costs $800+/month. I tested both for 90 days
+  to figure out who actually needs the expensive version and who's just burning
+  budget.
 author: Terry 'The Tool' Shepard
-date: October 29, 2025
+date: 'October 29, 2025'
 readTime: 6 min read
-imageUrl: /images/tools/linkedin-recruiter-lite-vs-full.md.jpg
+imageUrl: /images/tools/linkedin-recruiter-lite-vs-full.jpg
 featured: false
 ---
 
