@@ -1,6 +1,7 @@
 import { Hero } from '@/components/Hero';
 import { FeaturedStories } from '@/components/FeaturedStories';
 import { Link2StartAd } from '@/components/Link2StartAd';
+import { SpreadTrackerAd } from '@/components/SpreadTrackerAd';
 import { AdvertiseWithUs } from '@/components/AdvertiseWithUs';
 import { Container } from '@/components/ui';
 import { getAllArticles, getFeaturedArticles } from '@/lib/articles';
@@ -43,13 +44,20 @@ export default async function HomePage() {
 
       // Add ad slot after this chunk (except for the last chunk)
       if (i + articlesPerRow * rowsPerAdSlot < allArticles.length) {
-        // Rotate through variants 1, 2, 3 based on chunk index
-        const variantIndex = Math.floor(i / (articlesPerRow * rowsPerAdSlot));
-        const variant = ((variantIndex % 3) + 1) as 1 | 2 | 3;
+        const chunkNumber = Math.floor(i / (articlesPerRow * rowsPerAdSlot));
 
-        chunks.push(
-          <AdvertiseWithUs key={`ad-${i}`} variant={variant} />
-        );
+        // First ad slot: Link2Start (moved down from top)
+        if (chunkNumber === 0) {
+          chunks.push(
+            <Link2StartAd key={`ad-${i}`} />
+          );
+        } else {
+          // Rotate through variants 1, 2, 3 for subsequent ads
+          const variant = ((chunkNumber % 3) + 1) as 1 | 2 | 3;
+          chunks.push(
+            <AdvertiseWithUs key={`ad-${i}`} variant={variant} />
+          );
+        }
       }
     }
 
@@ -66,7 +74,7 @@ export default async function HomePage() {
 
       <Container className="py-12">
         <h2 className="text-3xl font-bold mb-8 text-white">All Stories</h2>
-        <Link2StartAd />
+        <SpreadTrackerAd />
         {renderArticlesWithAdSlots()}
       </Container>
     </div>

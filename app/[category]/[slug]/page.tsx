@@ -5,10 +5,11 @@ import { getArticleBySlug, getRandomArticles, getAllArticleSlugs } from '@/lib/a
 import { RelatedArticles } from '@/components/RelatedArticles';
 import { AIDisclaimer } from '@/components/AIDisclaimer';
 import { Link2StartAd } from '@/components/Link2StartAd';
+import { SpreadTrackerAd } from '@/components/SpreadTrackerAd';
 import { AdvertiseWithUs } from '@/components/AdvertiseWithUs';
 import { SocialShare } from '@/components/SocialShare';
 import { FAQSchema } from '@/components/FAQSchema';
-import { showLink2StartAd } from '@/lib/adPlacement';
+import { showLink2StartAd, showSpreadTrackerAd } from '@/lib/adPlacement';
 import { authorNameToSlug } from '@/lib/authors';
 import { Badge, Container } from '@/components/ui';
 import { CATEGORY_LABELS, type Category } from '@/types';
@@ -78,6 +79,7 @@ export default async function ArticlePage({ params }: Props) {
   }
 
   const relatedArticles = await getRandomArticles(category, slug, 3);
+  const useSpreadTrackerAd = showSpreadTrackerAd(slug);
   const useLink2StartAd = showLink2StartAd(slug);
 
   // Rotate through different "Advertise With Us" variants for variety
@@ -198,8 +200,14 @@ export default async function ArticlePage({ params }: Props) {
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
 
-            {/* Ad Placement - Link2Start on ~25% of articles, Advertise With Us on the rest */}
-            {useLink2StartAd ? <Link2StartAd /> : <AdvertiseWithUs variant={getAdvertiseVariant(slug)} />}
+            {/* Ad Placement - SpreadTracker/Link2Start on ~50% of articles, Advertise With Us on the rest */}
+            {useSpreadTrackerAd ? (
+              <SpreadTrackerAd />
+            ) : useLink2StartAd ? (
+              <Link2StartAd />
+            ) : (
+              <AdvertiseWithUs variant={getAdvertiseVariant(slug)} />
+            )}
 
             {/* AI Disclaimer */}
             <AIDisclaimer />
