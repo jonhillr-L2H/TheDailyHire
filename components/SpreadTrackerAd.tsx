@@ -28,7 +28,7 @@ export function SpreadTrackerAd() {
   return (
     <div className="w-full mb-8 px-8">
       <a
-        href="https://spreadtrackerpro.com"
+        href="https://www.spreadtracker.io"
         target="_blank"
         rel="noopener noreferrer"
         onClick={handleAdClick}
