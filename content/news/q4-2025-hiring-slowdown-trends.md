@@ -5,7 +5,7 @@ excerpt: >-
   freezing headcount, delaying start dates, and pulling job postings. But is it
   real economic concern or year-end budget games?
 author: Judah 'News Boy' Jacobs
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 5 min read
 imageUrl: /images/news/q4-2025-hiring-slowdown-trends.jpg
 featured: false

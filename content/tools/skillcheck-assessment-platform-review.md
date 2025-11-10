@@ -6,7 +6,7 @@ excerpt: >-
   platform's clunky interface and 2-hour time commitment. Here's what works and
   what doesn't.
 author: Terry 'The Tool' Shepard
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/tools/skillcheck-assessment-platform-review.jpg
 featured: false

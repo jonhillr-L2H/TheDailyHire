@@ -5,7 +5,7 @@ excerpt: >-
   chaos. Here's how to keep interview processes moving without losing candidates
   to companies that move faster.
 author: Deborah 'Deb' Stevens
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/just-the-tip/year-end-interview-scheduling-strategies.jpg
 featured: false

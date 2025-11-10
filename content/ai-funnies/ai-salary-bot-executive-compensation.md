@@ -6,7 +6,7 @@ excerpt: >-
   offered a junior developer $487K, equity, a company car, and unlimited PTO.
   The offer auto-sent. He accepted.
 author: Kelly 'The chronicler of AI fails' McDaniels
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/ai-funnies/ai-salary-bot-executive-compensation.jpg
 featured: false

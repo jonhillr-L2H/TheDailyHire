@@ -6,7 +6,7 @@ excerpt: >-
   for technical interviews. Here's what works, what doesn't, and whether it's
   worth $299/month.
 author: Terry 'The Tool' Shepard
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/tools/brightview-video-interviewing-platform-review.jpg
 featured: false

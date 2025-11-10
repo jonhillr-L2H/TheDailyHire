@@ -5,7 +5,7 @@ excerpt: >-
   Then a software update changed everything. Suddenly it was asking about past
   lives, favorite cryptids, and whether candidates could communicate with plants.
 author: Kelly 'The chronicler of AI fails' McDaniels
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/ai-funnies/ai-interview-bot-bizarre-questions.jpg
 featured: false

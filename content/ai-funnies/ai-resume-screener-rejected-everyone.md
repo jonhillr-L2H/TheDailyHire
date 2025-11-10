@@ -5,7 +5,7 @@ excerpt: >-
   worked too well. It rejected everyone—including internal transfers, the
   hiring manager's top referral, and our CEO who applied as a quality test.
 author: Kelly 'The chronicler of AI fails' McDaniels
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/ai-funnies/ai-resume-screener-rejected-everyone.jpg
 featured: false

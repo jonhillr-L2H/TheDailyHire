@@ -6,7 +6,7 @@ excerpt: >-
   reporting make it frustrating for data-driven teams. Here's our full review
   after 90 days of use.
 author: Terry 'The Tool' Shepard
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/tools/talentflow-ats-review-2025.jpg
 featured: false

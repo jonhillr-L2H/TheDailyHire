@@ -6,7 +6,7 @@ excerpt: >-
   LinkedIn—including his dentist, his fantasy football rivals, and his college
   roommate's nephew.
 author: Kelly 'The chronicler of AI fails' McDaniels
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/ai-funnies/ai-matching-tool-ceo-connections.jpg
 featured: false

@@ -5,7 +5,7 @@ excerpt: >-
   succeed in Q1 are the ones who built pipelines in Q4. Here's how to prep now
   for January's hiring surge.
 author: Deborah 'Deb' Stevens
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/just-the-tip/building-q1-talent-pipelines-now.jpg
 featured: false

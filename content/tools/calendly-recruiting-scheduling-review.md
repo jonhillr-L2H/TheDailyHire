@@ -6,7 +6,7 @@ excerpt: >-
   coordination and ATS integration. Here's when Calendly works for hiring—and
   when you need a specialized tool.
 author: Terry 'The Tool' Shepard
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/tools/calendly-recruiting-scheduling-review.jpg
 featured: false

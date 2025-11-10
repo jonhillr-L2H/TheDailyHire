@@ -5,7 +5,7 @@ excerpt: >-
   they're reconsidering. Here's how to handle counteroffers without getting into
   bidding wars you can't win.
 author: Deborah 'Deb' Stevens
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/just-the-tip/handling-counteroffers-when-candidates-stay.jpg
 featured: false

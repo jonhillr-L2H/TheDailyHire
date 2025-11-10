@@ -5,7 +5,7 @@ excerpt: >-
   pipeline. Here's how to handle hiring freeze communication without burning
   bridges or tanking your employer brand.
 author: Deborah 'Deb' Stevens
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 3 min read
 imageUrl: /images/just-the-tip/communicating-hiring-freezes-to-candidates.jpg
 featured: false

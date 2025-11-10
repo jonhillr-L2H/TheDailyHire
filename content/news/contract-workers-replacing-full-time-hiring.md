@@ -5,7 +5,7 @@ excerpt: >-
   choosing contractors over full-time employees—not just to save money, but to
   avoid commitment. Here's what's driving the shift.
 author: Judah 'News Boy' Jacobs
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 5 min read
 imageUrl: /images/news/contract-workers-replacing-full-time-hiring.jpg
 featured: false

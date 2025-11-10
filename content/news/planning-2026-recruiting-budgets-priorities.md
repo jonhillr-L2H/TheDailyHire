@@ -5,7 +5,7 @@ excerpt: >-
   ambitious hiring goals with flat or reduced budgets. Here's how to build a
   realistic recruiting budget that doesn't set you up for failure.
 author: Judah 'News Boy' Jacobs
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 5 min read
 imageUrl: /images/news/planning-2026-recruiting-budgets-priorities.md
 featured: false

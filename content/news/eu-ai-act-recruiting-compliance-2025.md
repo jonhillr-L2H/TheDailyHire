@@ -5,7 +5,7 @@ excerpt: >-
   hiring. U.S. companies hiring European workers must comply or face fines up to
   €35 million. Most don't realize they're affected.
 author: Judah 'News Boy' Jacobs
-date: 'November 8, 2025'
+date: 'November 10, 2025'
 readTime: 5 min read
 imageUrl: /images/news/eu-ai-act-recruiting-compliance-2025.jpg
 featured: false
