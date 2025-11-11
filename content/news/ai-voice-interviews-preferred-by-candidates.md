@@ -2,7 +2,7 @@
 title: "78% of Candidates Prefer AI Voice Interviews Over Humans—And Recruiting Companies Are Listening"
 excerpt: "Surprising new research shows candidates actually prefer being interviewed by AI voice agents over humans, citing less judgment, more honesty, and better scheduling flexibility."
 date: "November 11, 2025"
-author: "Sarah Martinez"
+author: "Judah 'News Boy' Jacobs"
 readTime: "5 min read"
 tags: ["AI in Recruiting", "Candidate Experience", "Interview Technology"]
 ---

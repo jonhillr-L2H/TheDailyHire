@@ -2,7 +2,7 @@
 title: "Conference Follow-Up That Actually Works: How To Turn ERE (or Any Recruiting Event) Connections Into Real Relationships"
 excerpt: "You attended ERE, HR Tech Week, or another recruiting conference. You collected 30 business cards and connected on LinkedIn. Now what? Here's how to follow up in a way that builds real relationships."
 date: "November 11, 2025"
-author: "Sarah Martinez"
+author: "Judy 'Just The Tip' Terry"
 readTime: "5 min read"
 tags: ["Networking", "Professional Development", "Conference Strategy"]
 ---

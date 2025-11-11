@@ -2,7 +2,7 @@
 title: "Preparing for the 2026 Hiring Surge When Your 2025 Budget Was Already Too Small"
 excerpt: "63% of employers plan to expand hiring in 2026, but 73% of HR teams had stagnant or shrinking budgets in 2025. Here's how to prepare for hiring more with the same (or less) resources."
 date: "November 11, 2025"
-author: "Marcus Chen"
+author: "Judy 'Just The Tip' Terry"
 readTime: "6 min read"
 tags: ["Budget Planning", "2026 Strategy", "Recruiting Efficiency", "Talent Pipelines"]
 ---

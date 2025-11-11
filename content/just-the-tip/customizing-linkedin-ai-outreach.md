@@ -2,7 +2,7 @@
 title: "Using LinkedIn's New AI Search Features Without Sounding Like Every Other Recruiter Using LinkedIn's New AI Search Features"
 excerpt: "LinkedIn's 2025 AI-Assisted Search and AI-written InMails are rolling out to all recruiters. The problem: everyone's messages will start sounding identical. Here's how to customize AI drafts for personalization."
 date: "November 11, 2025"
-author: "Sarah Martinez"
+author: "Judy 'Just The Tip' Terry"
 readTime: "5 min read"
 tags: ["LinkedIn", "AI in Recruiting", "Sourcing Strategy", "Candidate Outreach"]
 ---

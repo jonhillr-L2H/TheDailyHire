@@ -2,7 +2,7 @@
 title: "How To Sell Candidates on 'Skills-Based Hiring' When They Think It Means 'We'll Lowball Your Salary Because You Don't Have a Degree'"
 excerpt: "Skills-based hiring is everywhere, but many candidates are skeptical—they think it's code for paying less. Here's how to position skills-first roles authentically and attract great talent."
 date: "November 11, 2025"
-author: "Marcus Chen"
+author: "Judy 'Just The Tip' Terry"
 readTime: "5 min read"
 tags: ["Skills-Based Hiring", "Candidate Messaging", "Compensation Strategy"]
 ---

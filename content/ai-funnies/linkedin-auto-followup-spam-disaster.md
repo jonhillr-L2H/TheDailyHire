@@ -2,7 +2,7 @@
 title: "We Enabled LinkedIn's Auto-Follow-Up Feature and It Sent 847 'Just Checking In!' Messages in One Day (Including to People Who Already Accepted Offers)"
 excerpt: "LinkedIn's automated follow-up feature promises 39% higher InMail acceptance. We turned it on. Within 24 hours, it sent 847 identical messages—to active candidates, people who'd already started jobs, and one person who'd asked us to never contact them again."
 date: "November 11, 2025"
-author: "Anonymous (currently updating my own LinkedIn profile)"
+author: "Stan 'The Funny Man' Fisher"
 readTime: "4 min read"
 tags: ["LinkedIn Disasters", "AI Gone Wrong", "Recruiting Humor"]
 ---

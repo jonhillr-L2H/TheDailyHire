@@ -2,7 +2,7 @@
 title: "Deel Recruiting: Built for Global Hiring, But the ATS Features Feel Like an Afterthought"
 excerpt: "Deel is known for global payroll and compliance. Now it offers recruiting features to help companies hire international talent. The global hiring integration is seamless—but the actual ATS functionality is basic compared to Greenhouse or Lever."
 date: "November 11, 2025"
-author: "Marcus Chen"
+author: "Terry 'The Tool' Shepard"
 readTime: "6 min read"
 tags: ["Tool Reviews", "Global Hiring", "ATS", "Recruiting Technology"]
 ---

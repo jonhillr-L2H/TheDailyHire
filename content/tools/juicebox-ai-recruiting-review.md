@@ -2,7 +2,7 @@
 title: "Juicebox AI Recruiting: Searches 800M+ Profiles, But Tends to Surface the Same 'Perfect Candidate' Everyone Else is Recruiting"
 excerpt: "Juicebox is an AI-powered recruiting tool that searches 800M+ public profiles across 30+ data sources. The AI matching is impressive—but it often recommends the same high-profile candidates that every other recruiter is already messaging."
 date: "November 11, 2025"
-author: "Sarah Martinez"
+author: "Terry 'The Tool' Shepard"
 readTime: "6 min read"
 tags: ["Tool Reviews", "AI Sourcing", "Recruiting Technology"]
 ---

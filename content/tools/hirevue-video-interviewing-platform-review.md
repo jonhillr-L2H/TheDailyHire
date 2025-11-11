@@ -2,7 +2,7 @@
 title: "HireVue Video Interviewing Platform: Powerful AI Analysis, But Candidates Feel Like They're Talking to a Wall"
 excerpt: "HireVue offers AI-powered interview analysis, facial expression evaluation, and speech pattern analysis. But candidate feedback consistently flags one problem: the asynchronous interview experience feels impersonal and awkward."
 date: "November 11, 2025"
-author: "Marcus Chen"
+author: "Terry 'The Tool' Shepard"
 readTime: "6 min read"
 tags: ["Tool Reviews", "Video Interviewing", "AI Assessment"]
 ---

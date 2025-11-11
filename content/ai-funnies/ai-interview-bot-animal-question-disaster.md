@@ -2,7 +2,7 @@
 title: "Our AI Interview Bot Asked a Candidate 'What Animal Would You Be?' Then Rejected Her for Saying 'Dog' (Apparently Dogs 'Lack Leadership Qualities')"
 excerpt: "We deployed an AI interview bot to handle first-round screening. It asked bizarre personality questions, then rejected candidates for absurd reasons. We only found out when a rejection went viral on Twitter."
 date: "November 11, 2025"
-author: "Anonymous (for obvious reasons)"
+author: "Stan 'The Funny Man' Fisher"
 readTime: "4 min read"
 tags: ["AI Gone Wrong", "Interview Disasters", "Recruiting Humor"]
 ---

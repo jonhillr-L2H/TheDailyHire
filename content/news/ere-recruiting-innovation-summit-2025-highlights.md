@@ -2,7 +2,7 @@
 title: "ERE Recruiting Innovation Summit 2025: AI Adoption, Budget Cuts, and Skills-First Hiring Dominate"
 excerpt: "The ERE Recruiting Innovation Summit in San Diego highlighted three major themes: 67% of companies increasing AI usage, 73% of HR teams facing budget constraints, and 81% adoption of skills-based hiring."
 date: "November 11, 2025"
-author: "Marcus Chen"
+author: "Judah 'News Boy' Jacobs"
 readTime: "6 min read"
 tags: ["Conferences", "Industry Trends", "AI in Recruiting", "Skills-Based Hiring"]
 ---

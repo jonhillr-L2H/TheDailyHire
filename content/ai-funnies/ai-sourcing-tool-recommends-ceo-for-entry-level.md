@@ -2,7 +2,7 @@
 title: "Our AI Sourcing Tool Found the 'Perfect Candidate'—It Was Our CEO's LinkedIn Profile (For an Entry-Level Role)"
 excerpt: "We're using an AI sourcing tool that analyzes 800M+ profiles to find 'perfect matches.' We needed an entry-level marketing coordinator. The AI's top recommendation: our CEO. Salary range: $45K-$55K. It had already auto-scheduled outreach emails."
 date: "November 11, 2025"
-author: "Anonymous (polishing my resume)"
+author: "Stan 'The Funny Man' Fisher"
 readTime: "4 min read"
 tags: ["AI Gone Wrong", "Sourcing Disasters", "Recruiting Humor"]
 ---

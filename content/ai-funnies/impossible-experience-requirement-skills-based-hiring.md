@@ -2,7 +2,7 @@
 title: "Job Posting Required '10 Years of Experience with Skills-Based Hiring' (A Practice That Became Popular 3 Years Ago)"
 excerpt: "Our AI-powered job description generator created a posting for a Senior Recruiter requiring '10+ years of experience with skills-based hiring practices.' Skills-based hiring only became mainstream in 2022. The only applicants claimed to be 'pioneers' from 2015."
 date: "November 11, 2025"
-author: "Anonymous (currently Googling 'how to delete the internet')"
+author: "Stan 'The Funny Man' Fisher"
 readTime: "4 min read"
 tags: ["Job Description Fails", "AI Gone Wrong", "Recruiting Humor"]
 ---

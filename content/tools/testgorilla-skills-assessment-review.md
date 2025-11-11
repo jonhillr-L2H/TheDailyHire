@@ -2,7 +2,7 @@
 title: "TestGorilla Skills Assessment Platform: Great Tests, But You'll Spend Hours Building Custom Assessments"
 excerpt: "TestGorilla offers 300+ pre-built tests covering technical skills, cognitive ability, personality, and role-specific knowledge—perfect for skills-based hiring. The tests are well-designed, but setup is time-consuming and requires calibration to be useful."
 date: "November 11, 2025"
-author: "Sarah Martinez"
+author: "Terry 'The Tool' Shepard"
 readTime: "6 min read"
 tags: ["Tool Reviews", "Skills Assessment", "Skills-Based Hiring"]
 ---

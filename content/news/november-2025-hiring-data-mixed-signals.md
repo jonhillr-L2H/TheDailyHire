@@ -2,7 +2,7 @@
 title: "Hiring Dipped in November But Job Postings Jumped—63% of Employers Plan to Expand Payrolls in 2026"
 excerpt: "November 2025 hiring data shows mixed signals: total hires fell to 5.3M while job postings rose to 8.1M. Despite the dip, 63% of hiring managers plan to expand payrolls in 2026."
 date: "November 11, 2025"
-author: "Sarah Martinez"
+author: "Judah 'News Boy' Jacobs"
 readTime: "6 min read"
 tags: ["Hiring Trends", "Labor Market", "2026 Planning", "Recruiting Strategy"]
 ---

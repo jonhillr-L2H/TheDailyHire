@@ -2,7 +2,7 @@
 title: "LinkedIn's 2025 Hiring Release: AI Now Writes Your InMails, Auto-Resurfaces Past Applicants, and Boosts Acceptance 40%"
 excerpt: "LinkedIn rolled out major AI-powered updates for recruiters in 2025: AI-Assisted Search eliminates Boolean strings, automated follow-ups increase InMail acceptance by 39%, and the platform auto-resurfaces past applicants for new roles."
 date: "November 11, 2025"
-author: "Marcus Chen"
+author: "Judah 'News Boy' Jacobs"
 readTime: "7 min read"
 tags: ["LinkedIn", "AI in Recruiting", "Sourcing Tools", "Recruiting Technology"]
 ---
