@@ -172,17 +172,25 @@ Strong closing paragraph
 ### Research & Sourcing:
 - **REQUIRED:** Search web for current recruiting/HR trends
 - Identify unique angles (don't rehash existing content)
-- **Hyperlink ALL sources inline** - Format: [LinkedIn's 2025 Report](url)
+- **CRITICAL FOR LEGAL PROTECTION:** Hyperlink ALL sources inline - Format: [LinkedIn's 2025 Report](url)
 - Example: "According to [Deloitte's HR Trends Report](url), 87% of companies..."
+- **NO FAKE FIRST-HAND EXPERIENCE:** Never claim to have attended events or tested products unless actually done
+- Use research-based, third-party perspective: "User reviews report..." not "We tested..."
+- For tool reviews: Base on user reviews, published features, and available information
+- For conference coverage: Report on what was covered, don't claim attendance
 - Include specific data points and statistics
 - Verify facts before publishing
 
 ### Citations Format:
 ```markdown
 ✅ CORRECT: According to [LinkedIn's 2025 Talent Report](https://example.com), 70% of recruiters...
+✅ CORRECT: User reviews on G2 indicate that [HireVue](url) has strong AI features...
+✅ CORRECT: Attendees at the ERE Summit reported that...
 
-❌ WRONG: Studies show that 70% of recruiters...
+❌ WRONG: Studies show that 70% of recruiters... (no source)
 ❌ WRONG: According to LinkedIn, 70% of recruiters... (no hyperlink)
+❌ WRONG: We tested HireVue and found... (fake first-hand experience)
+❌ WRONG: I attended ERE and saw... (claiming false attendance)
 ```
 
 ## 📋 Frontmatter Template
@@ -199,11 +207,13 @@ featured: false
 ---
 ```
 
-### Author Names (Use Exact Format):
-- News: `Judah "News Boy" Jacobs`
-- Tools: `Terry "The Tool" Shepard`
-- Funnies: `Stan "The Funny Man" Fisher`
-- Just the Tip: `Judy "Just The Tip" Terry`
+### Author Names (Use Exact Format - CRITICAL):
+- News: `Judah 'News Boy' Jacobs`
+- Tools: `Terry 'The Tool' Shepard`
+- Funnies: `Stan 'The Funny Man' Fisher`
+- Just the Tip: `Judy 'Just The Tip' Terry`
+
+**Note:** Use single quotes, not double quotes in author names.
 
 ### Image Selection (Unsplash):
 Use relevant recruiting/business/tech themes:
@@ -316,7 +326,8 @@ Before saving each story, verify:
 ✅ **Keep it EDGY, FUN, and ENGAGING** - boring = failure
 ✅ Use conversational, edgy tone
 ✅ Include humor and personality
-✅ Cite and hyperlink all sources
+✅ **Cite and hyperlink ALL sources** - critical for legal protection
+✅ Use research-based, third-party perspective (user reviews, published reports)
 ✅ Match writer's unique voice
 ✅ Use specific data and examples
 ✅ Stroke executive egos (News only)
@@ -325,15 +336,17 @@ Before saving each story, verify:
 ✅ Make advice actionable (Just the Tip)
 ✅ **Check existing articles FIRST to avoid duplicates**
 ✅ **Research FRESH content** from last 7-30 days
+✅ Use correct author names for each category (Judah/Terry/Stan/Judy)
 
 ### DON'T:
 ❌ **DUPLICATE existing article topics** - always check first
 ❌ **Use old/stale news** - must be current and relevant
 ❌ **Write boring content** - edgy and engaging is mandatory
+❌ **Claim fake first-hand experience** - no "we tested", "we attended" unless true
+❌ **Leave sources un-cited** - all claims need hyperlinked sources
 ❌ Plagiarize or copy content
 ❌ Slander specific brands/companies/people
 ❌ Use "the tea is..." in every News story
-❌ Leave sources un-hyperlinked
 ❌ Exceed word count ranges
 ❌ Use wrong author for category
 ❌ Create duplicate topics in same batch
