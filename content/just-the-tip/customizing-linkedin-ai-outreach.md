@@ -7,7 +7,7 @@ readTime: "5 min read"
 tags: ["LinkedIn", "AI in Recruiting", "Sourcing Strategy", "Candidate Outreach"]
 ---
 
-LinkedIn's 2025 AI features are impressive: AI-Assisted Search eliminates Boolean strings, and AI-written InMails show a 40% increase in acceptance rates.
+[LinkedIn's 2025 AI features](https://business.linkedin.com/talent-solutions) are impressive: [AI-Assisted Search](https://business.linkedin.com/talent-solutions/blog/product-updates) eliminates Boolean strings, and AI-written InMails show a [40% increase in acceptance rates](https://business.linkedin.com/talent-solutions).
 
 But here's the problem: every recruiter on LinkedIn now has access to the same AI tools. If everyone uses AI-generated messages without customization, candidates will start receiving dozens of nearly-identical InMails that all sound like they were written by the same robot.
 
@@ -40,7 +40,7 @@ LinkedIn's AI pulls from a candidate's profile, but profiles don't tell the whol
 - **Mutual connections**: "I saw you worked with Sarah Martinez at TechCorp—she's one of my favorite people in the industry"
 - **Recent activity**: "I saw your post about debugging production issues at 2am—that level of ownership is exactly what we're looking for"
 - **Company news**: "Congrats on your company's Series B announcement last week"
-- **Industry events**: "Are you planning to attend the ERE Summit next month? I'd love to connect there"
+- **Industry events**: "Are you planning to attend the [ERE Summit](https://www.ere.net/) next month? I'd love to connect there"
 
 These details prove you actually looked at their profile beyond what the AI scanned.
 

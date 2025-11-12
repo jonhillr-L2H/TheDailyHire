@@ -7,7 +7,7 @@ readTime: "6 min read"
 tags: ["Tool Reviews", "Video Interviewing", "AI Assessment"]
 ---
 
-HireVue is one of the most widely used video interviewing platforms, offering AI-powered interview analysis, facial expression evaluation, and speech pattern analysis. Companies use it to scale first-round screening, reduce interviewer bias, and make data-driven hiring decisions.
+[HireVue](https://www.hirevue.com/) is one of the most widely used video interviewing platforms, offering AI-powered interview analysis, facial expression evaluation, and speech pattern analysis. Companies use it to scale first-round screening, reduce interviewer bias, and make data-driven hiring decisions.
 
 But candidate reviews consistently flag a significant drawback: the asynchronous interview experience feels impersonal, robotic, and awkward.
 
@@ -27,7 +27,7 @@ The controversial (and most widely used) feature is the second one: asynchronous
 
 ## How the AI Analysis Works
 
-According to HireVue's marketing materials and user reviews, the platform's AI analyzes:
+According to [HireVue's published features](https://www.hirevue.com/platform) and [user reviews on G2](https://www.g2.com/products/hirevue/reviews), the platform's AI analyzes:
 
 - **Word choice**: Does the candidate use specific, confident language or vague, hesitant language?
 - **Speech patterns**: Pace, tone, filler words (um, uh, like), pauses
@@ -43,7 +43,7 @@ Hiring teams can review video recordings, AI scores, or both when making decisio
 
 ### 1. Scales Screening for High-Volume Hiring
 
-User reviews from recruiting teams at large companies (retail, healthcare, customer service) highlight this as the biggest benefit:
+[User reviews from recruiting teams](https://www.g2.com/products/hirevue/reviews) at large companies (retail, healthcare, customer service) highlight this as the biggest benefit:
 
 > "We were conducting 200+ phone screens per week for customer service roles. HireVue reduced that to 50 in-person interviews with pre-screened candidates. Massive time savings."
 
@@ -73,7 +73,7 @@ HireVue integrates with Greenhouse, Lever, Workday, iCIMS, and other major appli
 
 ### 1. The Asynchronous Experience Feels Dehumanizing
 
-This is the most common complaint in candidate reviews on Glassdoor, Reddit, and social media:
+This is the most common complaint in [candidate reviews on Glassdoor](https://www.glassdoor.com/), [Reddit](https://www.reddit.com/r/jobs/), and social media:
 
 > "I felt like I was talking to a wall. No feedback, no interaction, just recording myself answering questions to an empty screen. It was the most awkward interview experience I've ever had."
 
@@ -91,7 +91,7 @@ When technical issues occur, there's no interviewer to troubleshoot or offer rea
 
 ### 3. AI Bias Concerns
 
-Despite HireVue's claims that AI reduces bias, research and user reports raise concerns:
+Despite HireVue's claims that AI reduces bias, [research on AI hiring tools](https://www.shrm.org/topics-tools/news/technology/ai-hiring-tools-face-bias-concerns) and user reports raise concerns:
 
 - **Accent discrimination**: AI may score candidates with non-native accents lower on "communication skills"
 - **Facial expression bias**: Cultural differences in eye contact, smiling, and expressiveness may disadvantage some candidates

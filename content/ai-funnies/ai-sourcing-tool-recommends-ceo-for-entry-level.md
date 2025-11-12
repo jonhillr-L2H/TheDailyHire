@@ -7,7 +7,7 @@ readTime: "4 min read"
 tags: ["AI Gone Wrong", "Sourcing Disasters", "Recruiting Humor"]
 ---
 
-We invested in a premium AI sourcing tool. It's supposed to search 800M+ LinkedIn profiles, analyze skills and experience, and surface the "perfect candidates" for our open roles.
+We invested in a premium [AI sourcing tool](https://www.hrtechnologyconference.com/). It's supposed to search 800M+ LinkedIn profiles, analyze skills and experience, and surface the "perfect candidates" for our open roles.
 
 The sales pitch: "Our AI doesn't just match keywords—it understands context, career trajectory, and fit. It finds candidates you'd never find on your own."
 

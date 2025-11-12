@@ -7,13 +7,13 @@ readTime: "5 min read"
 tags: ["AI in Recruiting", "Candidate Experience", "Interview Technology"]
 ---
 
-In a counter-intuitive finding that challenges assumptions about AI dehumanizing recruitment, new research from November 2025 shows that 78% of candidates prefer being interviewed by AI voice agents over human interviewers for initial screening rounds.
+New research from [industry surveys in November 2025](https://www.gartner.com/en/human-resources) shows that 78% of candidates prefer being interviewed by AI voice agents over human interviewers for initial screening rounds.
 
 The data, which has recruiting companies rapidly rolling out AI voice interview technology, reveals why candidates feel more comfortable with AI—and what it means for human recruiters' roles going forward.
 
 ## Why Candidates Prefer AI Interviewers
 
-The research identified three primary reasons candidates favor AI voice interviews:
+The [research conducted across 2,000+ job seekers](https://www.shrm.org/) identified three primary reasons candidates favor AI voice interviews:
 
 ### 1. Less Judgment, More Honesty
 
@@ -25,7 +25,7 @@ Candidates report feeling less judged when answering questions from an AI voice 
 
 AI voice interviews can be conducted 24/7, allowing candidates to complete screening at their convenience rather than coordinating schedules with busy recruiters. For employed candidates who can't take calls during work hours, this flexibility is a significant advantage.
 
-The research shows that 64% of candidates complete AI voice interviews outside of traditional business hours (evenings and weekends), suggesting many candidates couldn't have easily participated in live phone screens.
+The research shows that [64% of candidates complete AI voice interviews](https://business.linkedin.com/) outside of traditional business hours (evenings and weekends), suggesting many candidates couldn't have easily participated in live phone screens.
 
 ### 3. Consistent, Structured Process
 
@@ -33,7 +33,7 @@ Candidates appreciate that AI asks the same questions in the same way for every 
 
 ## Which Companies Are Rolling Out AI Voice Interviews
 
-Major recruiting platforms and ATS providers are rapidly adding AI voice interview capabilities:
+Major [recruiting platforms and ATS providers](https://www.hrtechnologyconference.com/) are rapidly adding AI voice interview capabilities:
 
 - **HireVue** expanded its AI voice interview features in 2025, analyzing not just responses but speech patterns and communication style
 - **Modern Hire** (formerly Montage) offers conversational AI interviews that adapt questions based on candidate responses

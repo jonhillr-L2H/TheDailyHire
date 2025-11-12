@@ -7,13 +7,13 @@ readTime: "7 min read"
 tags: ["LinkedIn", "AI in Recruiting", "Sourcing Tools", "Recruiting Technology"]
 ---
 
-LinkedIn just released its biggest recruiting feature update of 2025, with AI-powered tools that promise to eliminate Boolean searches, write personalized InMails, and automatically resurface past applicants who match new job postings.
+[LinkedIn just released](https://business.linkedin.com/talent-solutions) its biggest recruiting feature update of 2025, with AI-powered tools that promise to eliminate Boolean searches, write personalized InMails, and automatically resurface past applicants who match new job postings.
 
 But are these features actually helpful, or just marketing hype? Here's a breakdown of what's new, which features are worth using, and where LinkedIn's AI falls short.
 
 ## AI-Assisted Search: Goodbye Boolean Strings
 
-LinkedIn's new AI-Assisted Search allows recruiters to search for candidates using natural language instead of complex Boolean strings. Instead of typing `(recruiter OR "talent acquisition") AND (SaaS OR software) AND (Series B OR "growth stage")`, you can now type "recruiters with SaaS experience at Series B companies" and let the AI translate it.
+LinkedIn's new [AI-Assisted Search](https://business.linkedin.com/talent-solutions/blog/product-updates) allows recruiters to search for candidates using natural language instead of complex Boolean strings. Instead of typing `(recruiter OR "talent acquisition") AND (SaaS OR software) AND (Series B OR "growth stage")`, you can now type "recruiters with SaaS experience at Series B companies" and let the AI translate it.
 
 **The Good:**
 - Dramatically lowers the learning curve for new recruiters who never mastered Boolean
@@ -31,7 +31,7 @@ LinkedIn's new AI-Assisted Search allows recruiters to search for candidates usi
 
 LinkedIn's most talked-about feature is AI-written InMails. The platform analyzes a candidate's profile and generates a personalized outreach message highlighting relevant skills, experience, and why they're a good fit for your role.
 
-Early data from LinkedIn shows these AI-generated messages achieve 39% higher acceptance rates compared to generic templates.
+[Early data from LinkedIn](https://business.linkedin.com/talent-solutions) shows these AI-generated messages achieve 39% higher acceptance rates compared to generic templates.
 
 **The Good:**
 - Genuinely saves time on the most tedious part of sourcing
@@ -74,7 +74,7 @@ If someone applied to your company 6 months ago for a different role, LinkedIn w
 - Reduces time-to-hire by starting with pre-qualified candidates
 
 **The Bad:**
-- Only works if your ATS integrates with LinkedIn (Greenhouse, Lever, Workday, and a few others currently supported)
+- Only works if your ATS integrates with LinkedIn ([Greenhouse, Lever, Workday](https://business.linkedin.com/talent-solutions/ats-partners), and a few others currently supported)
 - Doesn't account for why someone was rejected previously—you might resurface candidates who were already determined to be a poor fit
 - Requires manual filtering to separate "good candidate, wrong role" from "not qualified for anything"
 

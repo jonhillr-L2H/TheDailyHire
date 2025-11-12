@@ -7,7 +7,7 @@ readTime: "5 min read"
 tags: ["Networking", "Professional Development", "Conference Strategy"]
 ---
 
-You just attended ERE, HR Tech Week, or another recruiting conference. You went to sessions, networked during breaks, exchanged business cards with 30 people, and sent LinkedIn connection requests on the flight home.
+You just attended [ERE](https://www.ere.net/), [HR Tech Week](https://www.hrtechnologyconference.com/), or another recruiting conference. You went to sessions, networked during breaks, exchanged business cards with 30 people, and sent LinkedIn connection requests on the flight home.
 
 Now what?
 
@@ -55,7 +55,7 @@ Send something useful related to your conversation:
 - A follow-up answer to a question they asked
 
 **Example:**
-> "You mentioned you were looking for a better candidate assessment tool that doesn't break the bank. I've been using TestGorilla for the past 6 months—not perfect, but way better than our old solution. Happy to chat about our experience if that's helpful."
+> "You mentioned you were looking for a better candidate assessment tool that doesn't break the bank. I've been using [TestGorilla](https://www.testgorilla.com/) for the past 6 months—not perfect, but way better than our old solution. Happy to chat about our experience if that's helpful."
 
 Leading with value makes the follow-up feel like the continuation of a conversation, not a transactional networking move.
 

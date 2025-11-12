@@ -30,7 +30,7 @@ Here's what the AI-generated job description said under "Required Qualifications
 
 Spot the problem?
 
-Skills-based hiring only became mainstream in 2022. It's 2025. That's 3 years.
+[Skills-based hiring only became mainstream in 2022](https://www.shrm.org/topics-tools/news/talent-acquisition/skills-based-hiring-takes-center-stage). It's 2025. That's 3 years.
 
 Even the most forward-thinking companies didn't start using skills-based hiring at scale until 2021-2022.
 

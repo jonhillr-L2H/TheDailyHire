@@ -7,7 +7,7 @@ readTime: "6 min read"
 tags: ["Tool Reviews", "Skills Assessment", "Skills-Based Hiring"]
 ---
 
-TestGorilla is a skills assessment platform with 300+ pre-built tests covering technical skills, cognitive ability, personality, and role-specific knowledge. With 81% of companies now using skills-based hiring approaches, platforms like TestGorilla are becoming essential recruiting tools.
+[TestGorilla](https://www.testgorilla.com/) is a skills assessment platform with [300+ pre-built tests](https://www.testgorilla.com/test-library/) covering technical skills, cognitive ability, personality, and role-specific knowledge. With [81% of companies now using skills-based hiring approaches](https://www.shrm.org/topics-tools/news/talent-acquisition/skills-based-hiring-takes-center-stage), platforms like TestGorilla are becoming essential recruiting tools.
 
 The tests are well-designed and the candidate experience is smooth. The problem: you'll spend significant time customizing assessments, setting up scoring rubrics, and calibrating what scores actually predict success.
 
@@ -40,7 +40,7 @@ TestGorilla includes:
 
 ### 4. ATS Integration
 
-Integrates with Greenhouse, Lever, Workable, BambooHR, and other major ATS platforms to streamline candidate workflow.
+Integrates with [Greenhouse, Lever, Workable, BambooHR](https://www.testgorilla.com/integrations/), and other major ATS platforms to streamline candidate workflow.
 
 ### 5. Analytics and Benchmarking
 
@@ -52,7 +52,7 @@ Track candidate performance, compare scores across applicants, and benchmark aga
 
 With 81% of companies adopting skills-based hiring, TestGorilla provides structured, objective assessment that goes beyond resume screening.
 
-User reviews highlight this as the primary benefit:
+[User reviews on G2 and Capterra](https://www.g2.com/products/testgorilla/reviews) highlight this as the primary benefit:
 > "We dropped degree requirements for engineering roles. TestGorilla gave us a standardized way to assess candidates' actual coding skills instead of relying on credentials."
 
 ### 2. Well-Designed Tests
@@ -236,15 +236,15 @@ Transparency reduces candidate frustration.
 
 ## TestGorilla vs. Competitors
 
-**TestGorilla vs. Criteria (formerly Criteria Corp):**
+**TestGorilla vs. [Criteria](https://www.criteriacorp.com/) (formerly Criteria Corp):**
 - **TestGorilla wins**: More modern UI, better candidate experience
 - **Criteria wins**: Stronger cognitive ability tests, more validation research
 
-**TestGorilla vs. Indeed Assessments (Free):**
+**TestGorilla vs. [Indeed Assessments](https://www.indeed.com/assessments) (Free):**
 - **TestGorilla wins**: More comprehensive, better anti-cheating features, integrations
 - **Indeed wins**: Free (but lower quality tests, limited features)
 
-**TestGorilla vs. HackerRank (for technical roles):**
+**TestGorilla vs. [HackerRank](https://www.hackerrank.com/) (for technical roles):**
 - **TestGorilla wins**: Broader range of tests (not just coding)
 - **HackerRank wins**: More advanced coding challenges, better for senior engineering roles
 

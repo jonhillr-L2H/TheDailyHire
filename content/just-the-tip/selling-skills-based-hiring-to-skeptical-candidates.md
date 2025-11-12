@@ -7,7 +7,7 @@ readTime: "5 min read"
 tags: ["Skills-Based Hiring", "Candidate Messaging", "Compensation Strategy"]
 ---
 
-Skills-based hiring is everywhere in 2025—81% of companies now use skills-first approaches, and 45% have dropped degree requirements for at least some roles.
+Skills-based hiring is everywhere in 2025—[81% of companies now use skills-first approaches](https://www.shrm.org/topics-tools/news/talent-acquisition/skills-based-hiring-takes-center-stage), and [45% have dropped degree requirements](https://www.indeed.com/hiring-lab/) for at least some roles.
 
 But there's a problem: many candidates are skeptical. They've seen "degree optional" job postings before, and in their experience, it often means "we're going to pay you less because you don't have credentials."
 

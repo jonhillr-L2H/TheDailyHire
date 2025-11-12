@@ -7,7 +7,7 @@ readTime: "6 min read"
 tags: ["Tool Reviews", "AI Sourcing", "Recruiting Technology"]
 ---
 
-Juicebox is an AI-powered recruiting tool that searches 800M+ public profiles across 30+ data sources to find candidates. The AI matching is sophisticated—it understands context, skills trajectories, and career moves beyond simple keyword matching.
+[Juicebox](https://www.juicebox.ai/) is an AI-powered recruiting tool that searches [800M+ public profiles across 30+ data sources](https://www.juicebox.ai/platform) to find candidates. The AI matching is sophisticated—it understands context, skills trajectories, and career moves beyond simple keyword matching.
 
 The problem: it tends to recommend the same "obviously great" candidates that every other recruiter is already pursuing.
 
@@ -39,7 +39,7 @@ It's like LinkedIn Recruiter on steroids—bigger database, smarter AI, more dat
 
 With 800M+ profiles across 30+ sources, Juicebox finds candidates who don't actively update LinkedIn or aren't on traditional job boards.
 
-User reviews highlight this as particularly valuable for:
+[User reviews on G2 and Capterra](https://www.g2.com/products/juicebox/reviews) highlight this as particularly valuable for:
 - **Technical roles**: GitHub activity and Stack Overflow contributions help identify engineers who don't maintain polished LinkedIn profiles
 - **Academics and researchers**: Publications and conference talks surface candidates who aren't active on LinkedIn
 - **Passive candidates**: People who haven't updated their profiles in years but are still active in their fields
@@ -63,13 +63,13 @@ The AI translates this into complex searches across multiple databases.
 
 ### 4. Integrates with Major ATS Platforms
 
-Juicebox integrates with Greenhouse, Lever, Ashby, and other popular ATS tools, allowing you to push candidates directly into your pipeline.
+Juicebox integrates with [Greenhouse, Lever, Ashby](https://www.juicebox.ai/integrations), and other popular ATS tools, allowing you to push candidates directly into your pipeline.
 
 ## The Cons: Why Juicebox Falls Short
 
 ### 1. Surfaces the Same "Obvious" Candidates Everyone is Recruiting
 
-This is the most common complaint in user reviews:
+This is the most common complaint in [user reviews](https://www.g2.com/products/juicebox/reviews):
 
 > "Juicebox recommended 20 'perfect matches' for our engineering role. All 20 were senior engineers at top tech companies with public GitHub profiles. Every single one had been contacted by 10+ recruiters in the past month."
 

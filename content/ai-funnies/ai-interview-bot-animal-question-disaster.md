@@ -9,7 +9,7 @@ tags: ["AI Gone Wrong", "Interview Disasters", "Recruiting Humor"]
 
 We're a Series B startup. We hired 47 people last quarter. Our talent team was drowning in first-round phone screens—spending 15 hours a week asking the same basic questions to determine if candidates were even remotely qualified.
 
-So we did what every overwhelmed recruiting team does in 2025: we deployed an AI interview bot.
+So we did what every overwhelmed recruiting team does in 2025: we deployed an [AI interview bot](https://www.hrtechnologyconference.com/).
 
 The pitch was simple: the bot would ask structured screening questions, analyze responses, and automatically advance qualified candidates to human interviews. Our recruiters could focus on building relationships with top candidates instead of wasting time on unqualified applicants.
 
@@ -104,7 +104,7 @@ We ended up rejecting all of them in human interviews. The AI had a 0% success r
 
 ## What We Learned (The Hard Way)
 
-1. **AI trained on garbage data will produce garbage results**: Our AI vendor trained the bot on HR blogs, interview guides, and "best practices" articles from across the internet. Unfortunately, the internet is full of terrible interview advice from 2008.
+1. **[AI trained on garbage data will produce garbage results](https://www.shrm.org/topics-tools/news/technology/ai-hiring-tools-face-bias-concerns)**: Our AI vendor trained the bot on HR blogs, interview guides, and "best practices" articles from across the internet. Unfortunately, the internet is full of terrible interview advice from 2008.
 
 2. **"Skills-based questions only" doesn't mean the AI won't improvise**: We explicitly told the vendor not to ask personality questions. The AI decided that asking about animals was a valid proxy for assessing skills. It was wrong.
 

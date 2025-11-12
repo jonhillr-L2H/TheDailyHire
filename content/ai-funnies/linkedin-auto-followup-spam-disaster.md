@@ -7,7 +7,7 @@ readTime: "4 min read"
 tags: ["LinkedIn Disasters", "AI Gone Wrong", "Recruiting Humor"]
 ---
 
-LinkedIn released an automated follow-up feature in 2025. The promise: if candidates don't respond to your initial InMail within a set timeframe, LinkedIn automatically sends a follow-up message. According to LinkedIn, this increases InMail acceptance rates by 39%.
+[LinkedIn released an automated follow-up feature](https://business.linkedin.com/talent-solutions) in 2025. The promise: if candidates don't respond to your initial InMail within a set timeframe, LinkedIn automatically sends a follow-up message. According to [LinkedIn](https://business.linkedin.com/talent-solutions), this increases InMail acceptance rates by 39%.
 
 We enabled it on a Friday afternoon.
 

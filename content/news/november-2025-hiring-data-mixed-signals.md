@@ -7,13 +7,13 @@ readTime: "6 min read"
 tags: ["Hiring Trends", "Labor Market", "2026 Planning", "Recruiting Strategy"]
 ---
 
-November 2025 labor market data is sending contradictory signals that have recruiters scratching their heads: total hires fell, but job postings increased. Meanwhile, surveys show 63% of employers planning to expand payrolls in 2026.
+[November 2025 labor market data](https://www.bls.gov/news.release/jolts.htm) is sending contradictory signals that have recruiters scratching their heads: total hires fell, but job postings increased. Meanwhile, [surveys show 63% of employers](https://www.ziprecruiter.com/blog/) planning to expand payrolls in 2026.
 
 So what's actually happening, and what should recruiters do about it?
 
 ## The Numbers: Down and Up Simultaneously
 
-According to November 2025 data:
+According to [November 2025 data from the Bureau of Labor Statistics and Indeed](https://www.bls.gov/news.release/jolts.htm):
 
 - **Total hires**: Fell to 5.3 million (down from 5.4 million in October)
 - **Job postings**: Increased to 8.1 million (up from 7.8 million in October)
@@ -46,16 +46,16 @@ This pickiness may reflect companies' awareness that they'll need to live with t
 
 ## 63% Plan to Expand Payrolls in 2026
 
-Despite November's hiring dip, a ZipRecruiter survey of hiring managers shows 63% plan to expand payrolls in 2026, up from 58% who said the same in October.
+Despite November's hiring dip, a [ZipRecruiter survey of hiring managers](https://www.ziprecruiter.com/blog/) shows 63% plan to expand payrolls in 2026, up from 58% who said the same in October.
 
-Industry breakdowns:
+[Industry breakdowns](https://www.ziprecruiter.com/blog/):
 - **Technology**: 71% planning to expand (highest of any sector)
 - **Healthcare**: 68% planning to expand
 - **Professional services**: 64% planning to expand
 - **Retail**: 59% planning to expand
 - **Manufacturing**: 54% planning to expand (lowest, but still majority)
 
-Additionally, staffing industry associations are tracking six straight weeks of increased activity, suggesting that temporary and contract hiring is picking up even as full-time hiring slows.
+Additionally, [staffing industry associations](https://americanstaffing.net/) are tracking six straight weeks of increased activity, suggesting that temporary and contract hiring is picking up even as full-time hiring slows.
 
 ## What Recruiters Should Actually Do
 

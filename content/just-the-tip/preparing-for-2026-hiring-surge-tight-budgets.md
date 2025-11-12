@@ -9,8 +9,8 @@ tags: ["Budget Planning", "2026 Strategy", "Recruiting Efficiency", "Talent Pipe
 
 Here's the paradox facing recruiters heading into 2026:
 
-- **63% of employers plan to expand payrolls** in 2026
-- **73% of HR teams had stagnant or shrinking budgets** in 2025
+- **[63% of employers plan to expand payrolls](https://www.ziprecruiter.com/blog/)** in 2026
+- **[73% of HR teams had stagnant or shrinking budgets](https://www.ere.net/)** in 2025
 
 Translation: you're expected to hire more people next year with the same budget you barely managed to work with this year.
 
@@ -137,7 +137,7 @@ Train hiring managers and team members to source candidates via LinkedIn, referr
 Bad interviewers waste everyone's time with unstructured interviews that don't predict performance. Train hiring managers to conduct structured, skills-based interviews. This reduces time-to-hire and improves quality-of-hire.
 
 **3. AI tools training**
-If you're using LinkedIn's AI search, HireVue, or other AI tools, ensure your team knows how to use them effectively. Many teams pay for tools but don't train people to use them well.
+If you're using [LinkedIn's AI search](https://business.linkedin.com/talent-solutions), [HireVue](https://www.hirevue.com/), or other AI tools, ensure your team knows how to use them effectively. Many teams pay for tools but don't train people to use them well.
 
 ## The Reality Check
 
